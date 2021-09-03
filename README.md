@@ -1,7 +1,7 @@
 # Computational Tools for Linguistic Analysis @UBC (Winter 2021)
 
- git: https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc
-zoom: https://ubc.zoom.us/j/4232149833?pwd=NDRpUFR4VjVWM2Qyd2sweGpNaFBadz09
+*  git: https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc
+* zoom: https://ubc.zoom.us/j/4232149833?pwd=NDRpUFR4VjVWM2Qyd2sweGpNaFBadz09
 
 
 ## schedule
