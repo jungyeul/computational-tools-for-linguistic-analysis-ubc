@@ -1,6 +1,8 @@
 # Computational Tools for Linguistic Analysis @UBC (Winter 2021)
 
-https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc
+ git: https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc
+zoom: https://ubc.zoom.us/j/4232149833?pwd=NDRpUFR4VjVWM2Qyd2sweGpNaFBadz09
+
 
 ## schedule
 | date |	description	 |course materials |
@@ -16,5 +18,5 @@ https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc
 TBD. Otherwise, upon appointment. To schedule an appointment, please send me an email, jungyeul _at_ mail.ubc.ca
 
 ## ta
-Edith Coates, ecoates.bc _at_ gmail.com
+Edith Coates, icoates1 _at_ mail.ubc.ca 
 
