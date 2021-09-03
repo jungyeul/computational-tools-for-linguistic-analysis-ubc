@@ -1,2 +1,1 @@
-# computational-tools-for-linguistic-analysis-ubc
-Computational Tools for Linguistic Analysis
+Computational Tools for Linguistic Analysis @UBC (Winter 2021)
