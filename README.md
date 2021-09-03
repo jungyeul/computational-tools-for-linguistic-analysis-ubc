@@ -2,8 +2,8 @@
 
 https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc [[Syllabus](https://www.overleaf.com/)]
 
-## Schedule
-| Date |	Description	 |Course Materials |
+## schedule
+| date |	description	 |course materials |
 | ------------ | ------------ | ------------  |
 |  |  | [[syllabus & course policy]()] |
 | Sep 8 | *shell commands*  |[lecture slides] [lab slides] |
@@ -12,9 +12,9 @@ https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc [[Sy
 |   | *sentence boundary detection*   |   Suggested Readings:  <ul><li>[[Sentence Boundary Detection and the Problem with the U.S.](http://aclweb.org/anthology/N/N09/N09-2061.pdf)]</li><li>[[Sentence Boundary Detection: A Long Solved Problem?](http://aclweb.org/anthology/C/C12/C12-2096.pdf)]</li></ul> [lecture slides] |
 |  |   | [lab slides]|
 
-## office-hours
+## office hours
 TBD. Otherwise, upon appointment. To schedule an appointment, please send me an email, jungyeul _at_ mail.ubc.ca
 
-## TA
+## ta
 Edith Coates, ecoates.bc _at_ gmail.com
 
