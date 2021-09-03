@@ -1,6 +1,6 @@
 # Computational Tools for Linguistic Analysis @UBC (Winter 2021)
 
-https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc [[Syllabus](https://www.overleaf.com/)]
+https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc
 
 ## schedule
 | date |	description	 |course materials |
