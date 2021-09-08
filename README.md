@@ -11,6 +11,6 @@
 |  |   | [lab slides]|
 
 ## office hours
-* Jungyeul (instructor): 9-11 am on Friday (in-person or online). Otherwise, upon appointment. To schedule an appointment, please send me an email, jungyeul _at_ mail.ubc.ca
+* Jungyeul (Instructor): 9-11 am on Friday (in-person or online). Otherwise, upon appointment. To schedule an appointment, please send me an email, jungyeul _at_ mail.ubc.ca
 * Edith (TA): 3:30-4:30 pm on Friday (online). Or send her an email at icoates1 _at_ mail.ubc.ca
 
