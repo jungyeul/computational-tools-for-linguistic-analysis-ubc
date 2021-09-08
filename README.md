@@ -7,7 +7,7 @@
 ## schedule
 | date |	description	 |course materials |
 | ------------ | ------------ | ------------  |
-|  |  | [syllabus & course policy] |
+|  |  | [[syllabus & course policy](https://www.overleaf.com/read/twjqrgnvwzdq)] |
 | Sep 8 | *shell commands*  |[lecture slides] [lab slides] |
 |  | **preprocessing**  | |
 |  |  *tokenization*  |  Suggested Readings:  <ul><li>[[Tokenization: Returning to a Long Solved Problem](http://aclweb.org/anthology/P/P12/P12-2074.pdf)]</li></ul> [lecture slides] |
