@@ -6,9 +6,9 @@
 |  |  | [[syllabus & course policy](https://www.overleaf.com/read/twjqrgnvwzdq)] |
 | Sep 8 | *shell commands*  | [[lecture slides](https://www.overleaf.com/read/fqqrwxqkjmtb)] [[lab slides](https://www.overleaf.com/read/djddcbxmfqhj)] |
 |  | **preprocessing**  | |
-|  |  *tokenization*  |  Suggested Readings:  <ul><li>[[Tokenization: Returning to a Long Solved Problem](http://aclweb.org/anthology/P/P12/P12-2074.pdf)]</li></ul> [[lecture slides](https://www.overleaf.com/read/scpjfcgjvqyt)] |
-|   | *sentence boundary detection*   |   Suggested Readings:  <ul><li>[[Sentence Boundary Detection and the Problem with the U.S.](http://aclweb.org/anthology/N/N09/N09-2061.pdf)]</li><li>[[Sentence Boundary Detection: A Long Solved Problem?](http://aclweb.org/anthology/C/C12/C12-2096.pdf)]</li></ul> [[lecture slides](https://www.overleaf.com/read/wkpzqvvqfgmf)] |
-|  |   | [lab slides]|
+| Sep 13 |  *tokenization*  |  Suggested Readings:  <ul><li>[[Tokenization: Returning to a Long Solved Problem](http://aclweb.org/anthology/P/P12/P12-2074.pdf)]</li></ul> [[lecture slides](https://www.overleaf.com/read/scpjfcgjvqyt)] |
+| Sep 15  | *sentence boundary detection*   |   Suggested Readings:  <ul><li>[[Sentence Boundary Detection and the Problem with the U.S.](http://aclweb.org/anthology/N/N09/N09-2061.pdf)]</li><li>[[Sentence Boundary Detection: A Long Solved Problem?](http://aclweb.org/anthology/C/C12/C12-2096.pdf)]</li></ul> [[lecture slides](https://www.overleaf.com/read/wkpzqvvqfgmf)] |
+| Sep 15 |   | [lab slides]|
 
 ## office hours
 * Jungyeul (Instructor): 9-11 am on Friday (in-person or online). Otherwise, upon appointment. To schedule an appointment, please send me an email, jungyeul _at_ mail.ubc.ca
