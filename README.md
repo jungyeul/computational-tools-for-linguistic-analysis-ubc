@@ -11,6 +11,7 @@
 | Sep 15 |   | [[lab slides](https://www.overleaf.com/read/nfnzdfpcvnqq)] |
 | Sep 20, 22 | **lm**  | [[lecture](https://www.overleaf.com/read/fwxbpssbqkkm)] (with Edith) |
 | Sep 22 |   | [lab]  |
+|  |   | [assignment1] (due Oct 2)  |
 
 ## office hours
 * Jungyeul (Instructor): 9-11 am on Friday (in-person or online) [[zoom](https://ubc.zoom.us/j/4232149833?pwd=NDRpUFR4VjVWM2Qyd2sweGpNaFBadz09)]. Otherwise, upon appointment. To schedule an appointment, please send me an email, jungyeul _at_ mail.ubc.ca
