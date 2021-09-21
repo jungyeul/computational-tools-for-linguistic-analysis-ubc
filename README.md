@@ -9,8 +9,8 @@
 | Sep 13 |  *tokenization*  |  Suggested Readings:  <ul><li>[[Tokenization: Returning to a Long Solved Problem](http://aclweb.org/anthology/P/P12/P12-2074.pdf)]</li></ul> [[lecture slides](https://www.overleaf.com/read/scpjfcgjvqyt)] |
 | Sep 15  | *sentence boundary detection*   |   Suggested Readings:  <ul><li>[[Sentence Boundary Detection and the Problem with the U.S.](http://aclweb.org/anthology/N/N09/N09-2061.pdf)]</li><li>[[Sentence Boundary Detection: A Long Solved Problem?](http://aclweb.org/anthology/C/C12/C12-2096.pdf)]</li></ul> [[lecture slides](https://www.overleaf.com/read/wkpzqvvqfgmf)] |
 | Sep 15 |   | [[lab slides](https://www.overleaf.com/read/nfnzdfpcvnqq)] |
-| Sep 20, 22 | **lm**  | Suggested Readings:  <ul><li>[[Chap. 3, N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/3.pdf)], [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)</li></ul> [[lecture](https://www.overleaf.com/read/fwxbpssbqkkm)] (with Edith) |
-| Sep 22 |   | [[lab](https://www.overleaf.com/read/zkqkxkvjdrrb)]  |
+| Sep 20, 22 | **lm**  | Suggested Readings:  <ul><li>[[Chap. 3, N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/3.pdf)], [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)</li></ul> [[lecture slides](https://www.overleaf.com/read/fwxbpssbqkkm)] (with Edith) |
+| Sep 22 |   | [[lab slides](https://www.overleaf.com/read/zkqkxkvjdrrb)]  |
 |  |   | [assignment1] (due Oct 2)  |
 
 ## office hours
