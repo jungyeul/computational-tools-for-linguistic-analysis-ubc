@@ -13,7 +13,7 @@
 | Sep 22 |   | [[lab slides](https://www.overleaf.com/read/zkqkxkvjdrrb)]  |
 |  |   | [assignment1] (due Oct 2)  |
 |  | **pos tagging & sequence labeling algorithms**  | |
-| Sep 27, 29 | *morphosyntax tasks in nlp* |  Suggested Readings:  <ul><li>[[Part-of-Speech Tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf), [Speech and Language Processing (3rd ed. draft)]</li>  <li>[[Chunking](https://www.clips.uantwerpen.be/conll2000/chunking/), CoNLL-2000 Shared Task]</li> <li>[[Language-Independent Named Entity Recognition](https://www.clips.uantwerpen.be/conll2003/ner/), CoNLL-2003 Shared Task]</li><li>[[Semantic Role Labeling](http://www.lsi.upc.edu/~srlconll/), CoNLL-2004 and CoNLL-2005 Shared Tasks]</li> </ul> [[slides](https://www.overleaf.com/read/fywzsvzvwvff)] |
+| Sep 27, 29 | *morphosyntax tasks in nlp* |  Suggested Readings:  <ul><li>[[Part-of-Speech Tagging](https://web.stanford.edu/~jurafsky/slp3/8.pdf), [Speech and Language Processing (3rd ed. draft)]</li>  <li>[[Chunking](https://www.clips.uantwerpen.be/conll2000/chunking/), CoNLL-2000 Shared Task]</li> <li>[[Language-Independent Named Entity Recognition](https://www.clips.uantwerpen.be/conll2003/ner/), CoNLL-2003 Shared Task]</li><li>[[Semantic Role Labeling](http://www.lsi.upc.edu/~srlconll/), CoNLL-2004 and CoNLL-2005 Shared Tasks]</li> </ul> [lecture slides] |
 
 
 ## office hours
