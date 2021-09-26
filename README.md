@@ -18,7 +18,7 @@
 |  | **...**  | |
 | Oct 4, 6 | *...* |  Suggested Readings:  <ul><li>...</li> </ul> [lecture slides] |
 | Oct 6 |   | [lab slides] |
-|  |   | [[assignment 2](https://www.overleaf.com/read/rsrrcjdnpkvf)] (due Oct 16)  |
+|  |   | [assignment 2] (due Oct 16)  |
 
 ## office hours
 * Jungyeul (Instructor): 9-11 am on Friday (in-person or online) [[zoom](https://ubc.zoom.us/j/4232149833?pwd=NDRpUFR4VjVWM2Qyd2sweGpNaFBadz09)]. Otherwise, upon appointment. To schedule an appointment, please send me an email, jungyeul _at_ mail.ubc.ca
