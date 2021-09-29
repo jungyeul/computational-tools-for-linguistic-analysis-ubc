@@ -21,10 +21,6 @@
 |  |   | [assignment 2] (due Oct 16)  |
 
 
-|lecture | Feb 12 | | , [[slides](https://www.overleaf.com/read/zdkqzkqqdqqh)] |
-|lecture | Feb 19 | | [Chap. 12, [Statistical Parsing](https://web.stanford.edu/~jurafsky/slp3/12.pdf)], [[slides](https://www.overleaf.com/read/ghdgbbpnvcqc)] |
-|lecture | Feb 26 | | [Chap. 13, [Dependency Parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf)], [[slides](https://www.overleaf.com/read/wzbgndjdhxhr)] |
-
 ## office hours
 * Jungyeul (Instructor): 9-10 am on Friday (in-person or online) [[zoom](https://ubc.zoom.us/j/4232149833?pwd=NDRpUFR4VjVWM2Qyd2sweGpNaFBadz09)]. Otherwise, upon appointment. To schedule an appointment, please send me an email, jungyeul _at_ mail.ubc.ca
 * Edith (TA): 3:30-4:30 pm on Friday (online) [[zoom](https://zoom.us/j/6819608527?pwd=UHViTnhMYjM5enhiR1lBMWZKR2sxdz09)]. Or send her an email at icoates1 _at_ mail.ubc.ca
