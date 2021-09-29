@@ -32,6 +32,8 @@
 | Nov 1, 3 | *...*  | [lecture slides] |
 | Nov 3 |  | [lab slides] |
 | Nov 3 |   | [assignment 4] (due Nov 13)  |
+| Nov 17 |   | [lab writing assignment] (due Dec 4)  |
+| Nov 24 |   | [assignment 5] (due Dec 4)  |
 
 
 ## office hours
