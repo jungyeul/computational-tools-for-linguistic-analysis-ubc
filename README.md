@@ -15,10 +15,19 @@
 |  | **pos tagging & sequence labeling algorithms**  | |
 | Sep 27, 29 | *morphosyntax tasks in nlp* |  Suggested Readings:  <ul><li>[[Chap. 8, Sequence Labeling for Parts of Speech and Named Entities](https://web.stanford.edu/~jurafsky/slp3/8.pdf)], Speech and Language Processing (3rd ed. draft)</li>  <li>[[Chunking](https://www.clips.uantwerpen.be/conll2000/chunking/)], CoNLL-2000 Shared Task</li> <li>[[Language-Independent Named Entity Recognition](https://www.clips.uantwerpen.be/conll2003/ner/)], CoNLL-2003 Shared Task</li><li>[[Semantic Role Labeling](http://www.lsi.upc.edu/~srlconll/)], CoNLL-2004 and CoNLL-2005 Shared Tasks</li> </ul> [[lecture slides](https://www.overleaf.com/read/hxwyvymgyxsy)] |
 | Sep 29 |   | [[lab slides](https://www.overleaf.com/read/drrppbcnfdhy)] |
-|  | **...**  | |
-| Oct 4, 6 | *...* |  Suggested Readings:  <ul><li>...</li> </ul> [lecture slides] |
-| Oct 6 |   | [lab slides] |
+|  | **syntax**  | |
+| Oct 4, 6, 13 | *parsing* |  Suggested Readings:  <ul>
+  <li>[Chap. 12, [Constituency Grammars](https://web.stanford.edu/~jurafsky/slp3/12.pdf)], Speech and Language Processing (3rd ed. draft)</li> 
+  <li>[Chap. 13, [Constituency Parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf)]</li> 
+  <li>[Chap. 14, [Dependency Parsing](https://web.stanford.edu/~jurafsky/slp3/14.pdf)]</li> 
+</ul> [lecture slides] |
+| Oct 6, 13 |   | [lab slides] |
 |  |   | [assignment 2] (due Oct 16)  |
+
+
+|lecture | Feb 12 | | , [[slides](https://www.overleaf.com/read/zdkqzkqqdqqh)] |
+|lecture | Feb 19 | | [Chap. 12, [Statistical Parsing](https://web.stanford.edu/~jurafsky/slp3/12.pdf)], [[slides](https://www.overleaf.com/read/ghdgbbpnvcqc)] |
+|lecture | Feb 26 | | [Chap. 13, [Dependency Parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf)], [[slides](https://www.overleaf.com/read/wzbgndjdhxhr)] |
 
 ## office hours
 * Jungyeul (Instructor): 9-10 am on Friday (in-person or online) [[zoom](https://ubc.zoom.us/j/4232149833?pwd=NDRpUFR4VjVWM2Qyd2sweGpNaFBadz09)]. Otherwise, upon appointment. To schedule an appointment, please send me an email, jungyeul _at_ mail.ubc.ca
