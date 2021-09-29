@@ -25,6 +25,13 @@
 | Oct 20 | *morphological paradigm* | Suggested Readings:  <ul><li>[[Supervised Learning of Complete Morphological Paradigms](https://www.aclweb.org/anthology/N13-1138)]</li></ul> [lecture slides] |
 | Oct 20 |   | [lab slides] |
 |  |   | [assignment 3] (due Oct 30)  |
+|  | **classification**  | |
+| Oct 25, 27 | *...*  | [lecture slides] |
+| Oct  27 |  | [lab slides] |
+|  | **machine translatoin**  | |
+| Nov 1, 3 | *...*  | [lecture slides] |
+| Nov 3 |  | [lab slides] |
+| Nov 3 |   | [assignment 4] (due Nov 13)  |
 
 
 ## office hours
