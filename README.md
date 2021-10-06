@@ -17,7 +17,7 @@
 | Sep 29 |   | [[lab slides](https://www.overleaf.com/read/drrppbcnfdhy)] |
 |  | **syntax**  | |
 | Oct 6, 13 | *parsing* |  Suggested Readings:  <ul><li>[Chap. 12, [Constituency Grammars](https://web.stanford.edu/~jurafsky/slp3/12.pdf)], Speech and Language Processing (3rd ed. draft)</li>   <li>[Chap. 13, [Constituency Parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf)]</li>   <li>[Chap. 14, [Dependency Parsing](https://web.stanford.edu/~jurafsky/slp3/14.pdf)]</li> </ul> [[lecture slides](https://www.overleaf.com/read/wbjhtqfdnkfw)] |
-| Oct 6 |   | [lab slides] |
+| Oct 6 |   | [[lab slides](https://www.overleaf.com/read/vjmzpzgyctvm)] |
 |  |   | [assignment 2] (due Oct 16)  |
 | Oct 13 |   | [lab wrap up slides] |
 |  | **morphology**  | |
