@@ -17,23 +17,9 @@
 | Sep 29 |   | [[lab slides](https://www.overleaf.com/read/drrppbcnfdhy)] |
 |  | **syntax**  | |
 | Oct 6, 13 | *parsing* |  Suggested Readings:  <ul><li>[Chap. 12, [Constituency Grammars](https://web.stanford.edu/~jurafsky/slp3/12.pdf)], Speech and Language Processing (3rd ed. draft)</li>   <li>[Chap. 13, [Constituency Parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf)]</li>   <li>[Chap. 14, [Dependency Parsing](https://web.stanford.edu/~jurafsky/slp3/14.pdf)]</li> </ul> [[lecture slides](https://www.overleaf.com/read/wbjhtqfdnkfw)] |
-| Oct 6 |   | [lab slides] |
-|  |   | [assignment 2] (due Oct 16)  |
+| Oct 6 |   | [[lab slides](https://www.overleaf.com/read/vjmzpzgyctvm)] |
+|  |   | [[assignment 2](https://www.overleaf.com/read/bhzxzfjtfdfb)] (due Oct 16)  |
 | Oct 13 |   | [lab wrap up slides] |
-|  | **morphology**  | |
-| Oct 18 | *morphological segmentation*  | Suggested Readings:  <ul><li>[[Empirical Methods for Compound Splitting](http://www.aclweb.org/anthology/E03-1076)]</li> <li>[[Morphological Segmentation Inside-Out](https://www.aclweb.org/anthology/D16-1256/)]</li><li>[[Unsupervised Discovery of Morphemes](http://aclweb.org/anthology/W02-0603)]</li></ul> [lecture slides] |
-| Oct 20 | *morphological paradigm* | Suggested Readings:  <ul><li>[[Supervised Learning of Complete Morphological Paradigms](https://www.aclweb.org/anthology/N13-1138)]</li></ul> [lecture slides] |
-| Oct 20 |   | [lab slides] |
-|  |   | [assignment 3] (due Oct 30)  |
-|  | **classification**  | |
-| Oct 25, 27 | *...*  | [lecture slides] |
-| Oct  27 |  | [lab slides] |
-|  | **machine translatoin**  | |
-| Nov 1, 3 | *...*  | [lecture slides] |
-| Nov 3 |  | [lab slides] |
-| Nov 3 |   | [assignment 4] (due Nov 13)  |
-| Nov 17 |   | [lab writing assignment] (due Dec 4)  |
-| Nov 24 |   | [assignment 5] (due Dec 4)  |
 
 
 ## office hours
