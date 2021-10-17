@@ -16,18 +16,15 @@
 | Sep 27, 29, Oct 4 | *morphosyntax tasks in nlp & hmm* |  Suggested Readings:  <ul><li>[[Chap. 8, Sequence Labeling for Parts of Speech and Named Entities](https://web.stanford.edu/~jurafsky/slp3/8.pdf)], Speech and Language Processing (3rd ed. draft)</li>  <li>[[Chunking](https://www.clips.uantwerpen.be/conll2000/chunking/)], CoNLL-2000 Shared Task</li> <li>[[Language-Independent Named Entity Recognition](https://www.clips.uantwerpen.be/conll2003/ner/)], CoNLL-2003 Shared Task</li><li>[[Semantic Role Labeling](http://www.lsi.upc.edu/~srlconll/)], CoNLL-2004 and CoNLL-2005 Shared Tasks</li> </ul> [[lecture slides](https://www.overleaf.com/read/hxwyvymgyxsy)] |
 | Sep 29 |   | [[lab slides](https://www.overleaf.com/read/drrppbcnfdhy)] |
 |  | **syntax**  | |
-| Oct 6, 13 | *parsing* |  Suggested Readings:  <ul><li>[Chap. 12, [Constituency Grammars](https://web.stanford.edu/~jurafsky/slp3/12.pdf)], Speech and Language Processing (3rd ed. draft)</li>   <li>[Chap. 13, [Constituency Parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf)]</li>   <li>[Chap. 14, [Dependency Parsing](https://web.stanford.edu/~jurafsky/slp3/14.pdf)]</li> </ul> [[lecture slides](https://www.overleaf.com/read/qbymzwsmjrxf)] |
+| Oct 6, 13, 18 | *parsing* |  Suggested Readings:  <ul><li>[Chap. 12, [Constituency Grammars](https://web.stanford.edu/~jurafsky/slp3/12.pdf)], Speech and Language Processing (3rd ed. draft)</li>   <li>[Chap. 13, [Constituency Parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf)]</li>   <li>[Chap. 14, [Dependency Parsing](https://web.stanford.edu/~jurafsky/slp3/14.pdf)]</li> </ul> [[lecture slides](https://www.overleaf.com/read/qbymzwsmjrxf) (updated)] |
 | Oct 6 |   | [[lab slides](https://www.overleaf.com/read/vjmzpzgyctvm)] |
 |  |   | [[assignment 2](https://www.overleaf.com/read/bhzxzfjtfdfb)] (due Oct 16)  |
-| Oct 13 |   | [lab wrap up slides] |
 
 
 ## office hours
-* See the Canvas announcement for evalb errors ("Length unmatch"). 
-
 * Jungyeul (Instructor): 9-10 am on Friday (in-person or online) [[zoom](https://ubc.zoom.us/j/4232149833?pwd=NDRpUFR4VjVWM2Qyd2sweGpNaFBadz09)]. Otherwise, upon appointment. To schedule an appointment, please send me an email, jungyeul _at_ mail.ubc.ca
 * Edith (TA): 3:30-4:30 pm on Friday (online) [[zoom](https://zoom.us/j/6819608527?pwd=UHViTnhMYjM5enhiR1lBMWZKR2sxdz09)]. Or send her an email at icoates1 _at_ mail.ubc.ca
-
+* See the Canvas announcement for evalb errors ("Length unmatch"). 
 
 ## materials
 * _Speech and Language Processing_ (3rd ed. draft) [[link](https://web.stanford.edu/~jurafsky/slp3/)]
