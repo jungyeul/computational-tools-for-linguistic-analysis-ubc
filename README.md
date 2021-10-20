@@ -21,7 +21,7 @@
 |  |   | [[assignment 2](https://www.overleaf.com/read/bhzxzfjtfdfb)] (due Oct 16)  |
 |  | **classification**  | |
 | Oct 20 |   | [[lecture slides](https://www.overleaf.com/read/mmxnxpbkrgmh)] |
-| Oct 20 |  | [lab slides] |
+| Oct 20 |  | [[lab slides](https://www.overleaf.com/read/qtfbvxhdqvnv)] |
 |  |   | [no assignment on Oct 20]  |
 
 
