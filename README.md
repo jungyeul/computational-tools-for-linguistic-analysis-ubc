@@ -28,6 +28,12 @@
 |  | *morphological paradigm* | Suggested Readings:  <ul><li>[[Supervised Learning of Complete Morphological Paradigms](https://www.aclweb.org/anthology/N13-1138)]</li></ul>  |
 | Oct 25, 27 |   | [[lecture slides](https://www.overleaf.com/read/dddsbnghbhwd)], [lab slides] |
 |  |   | [assignment 3, (due Nov 6)]   |
+|  | **machine translation**  | |
+|  | *document alignment*  |  |
+|  | *word alignment*  |  |
+|  | *smt* |  |
+|  |   | [lecture slides], [lab slides] |
+
 
 
 
