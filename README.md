@@ -26,7 +26,7 @@
 |  | **morphology**  | |
 |  | *morphological segmentation*  | Suggested Readings:  <ul><li>[[Empirical Methods for Compound Splitting](http://www.aclweb.org/anthology/E03-1076)]</li> <li>[[Morphological Segmentation Inside-Out](https://www.aclweb.org/anthology/D16-1256/)]</li><li>[[Unsupervised Discovery of Morphemes](http://aclweb.org/anthology/W02-0603)]</li></ul>  |
 |  | *morphological paradigm* | Suggested Readings:  <ul><li>[[Supervised Learning of Complete Morphological Paradigms](https://www.aclweb.org/anthology/N13-1138)]</li></ul>  |
-| Oct 25, 27 |   | [lecture slides], [lab slides] |
+| Oct 25, 27 |   | [[lecture slides](https://www.overleaf.com/read/dddsbnghbhwd)], [lab slides] |
 |  |   | [assignment 3, (due Nov 6)]   |
 
 
