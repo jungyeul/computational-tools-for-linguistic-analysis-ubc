@@ -29,9 +29,8 @@
 | Oct 25, 27 |   | [[lecture slides](https://www.overleaf.com/read/dddsbnghbhwd)], [lab slides] |
 |  |   | [assignment 3, (due Nov 6)]   |
 |  | **machine translation**  | |
-|  | *document alignment*  |  |
-|  | *word alignment*  |  |
-|  | *smt* |  |
+|  | *document & word alignment*  |  |
+|  | *smt & nmt* |  |
 | Nov  |   | [lecture slides], [lab slides] |
 
 
