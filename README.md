@@ -21,8 +21,7 @@
 | Oct 6, 13, 18 |   | [[lecture slides](https://www.overleaf.com/read/qbymzwsmjrxf) (updated)], [[lab slides](https://www.overleaf.com/read/vjmzpzgyctvm)] |
 |  |   | [[assignment 2](https://www.overleaf.com/read/bhzxzfjtfdfb)] (due Oct 16)  |
 |  | **classification**  | |
-| Oct 20 |   | [[lecture slides](https://www.overleaf.com/read/mmxnxpbkrgmh)] |
-| Oct 20 |  | [[lab slides](https://www.overleaf.com/read/qtfbvxhdqvnv)] |
+| Oct 20 |  | [[lecture slides](https://www.overleaf.com/read/mmxnxpbkrgmh)], [[lab slides](https://www.overleaf.com/read/qtfbvxhdqvnv)] |
 |  |   | [no assignment on Oct 20]  |
 |  | **morphology**  | |
 |  | *morphological segmentation*  | Suggested Readings:  <ul><li>[[Empirical Methods for Compound Splitting](http://www.aclweb.org/anthology/E03-1076)]</li> <li>[[Morphological Segmentation Inside-Out](https://www.aclweb.org/anthology/D16-1256/)]</li><li>[[Unsupervised Discovery of Morphemes](http://aclweb.org/anthology/W02-0603)]</li></ul>  |
@@ -32,7 +31,6 @@
 ## office hours
 * Jungyeul (Instructor): 9-10 am on Friday (in-person or online) [[zoom](https://ubc.zoom.us/j/4232149833?pwd=NDRpUFR4VjVWM2Qyd2sweGpNaFBadz09)]. Otherwise, upon appointment. To schedule an appointment, please send me an email, jungyeul _at_ mail.ubc.ca
 * Edith (TA): 3:30-4:30 pm on Friday (online) [[zoom](https://zoom.us/j/6819608527?pwd=UHViTnhMYjM5enhiR1lBMWZKR2sxdz09)]. Or send her an email at icoates1 _at_ mail.ubc.ca
-* See the Canvas announcement for evalb errors ("Length unmatch"). 
 
 ## materials
 * _Speech and Language Processing_ (3rd ed. draft) [[link](https://web.stanford.edu/~jurafsky/slp3/)]
