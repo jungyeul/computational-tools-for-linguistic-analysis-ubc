@@ -12,14 +12,14 @@
 | Sep 13, 15 |   | [[lecture slides](https://www.overleaf.com/read/scpjfcgjvqyt) (tokenization)] , [[lecture slides](https://www.overleaf.com/read/wkpzqvvqfgmf) (sbd)], [[lab slides](https://www.overleaf.com/read/nfnzdfpcvnqq)] |
 |  | **lm**  | Suggested Readings:  <ul><li>[[Chap. 3, N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/3.pdf)], [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)</li></ul>  |
 | Sep 20, 22 |   | [[lecture slides](https://www.overleaf.com/read/fwxbpssbqkkm) (with Edith)], [[lab slides](https://www.overleaf.com/read/zkqkxkvjdrrb)]  |
-|  |   | [[assignment 1](https://www.overleaf.com/read/rsrrcjdnpkvf)] (due Oct 2)  |
+|  |   | [[assignment 1](https://www.overleaf.com/read/rsrrcjdnpkvf), (due Oct 2)]   |
 |  | **pos tagging & sequence labeling algorithms**  | |
 |  | *morphosyntax tasks in nlp & hmm* |  Suggested Readings:  <ul><li>[[Chap. 8, Sequence Labeling for Parts of Speech and Named Entities](https://web.stanford.edu/~jurafsky/slp3/8.pdf)], Speech and Language Processing (3rd ed. draft)</li>  <li>[[Chunking](https://www.clips.uantwerpen.be/conll2000/chunking/)], CoNLL-2000 Shared Task</li> <li>[[Language-Independent Named Entity Recognition](https://www.clips.uantwerpen.be/conll2003/ner/)], CoNLL-2003 Shared Task</li><li>[[Semantic Role Labeling](http://www.lsi.upc.edu/~srlconll/)], CoNLL-2004 and CoNLL-2005 Shared Tasks</li> </ul>  |
 | Sep 27, 29, Oct 4 |   | [[lecture slides](https://www.overleaf.com/read/hxwyvymgyxsy)], [[lab slides](https://www.overleaf.com/read/drrppbcnfdhy)] |
 |  | **syntax**  | |
 |  | *parsing* |  Suggested Readings:  <ul><li>[Chap. 12, [Constituency Grammars](https://web.stanford.edu/~jurafsky/slp3/12.pdf)], Speech and Language Processing (3rd ed. draft)</li>   <li>[Chap. 13, [Constituency Parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf)]</li>   <li>[Chap. 14, [Dependency Parsing](https://web.stanford.edu/~jurafsky/slp3/14.pdf)]</li> </ul>  |
 | Oct 6, 13, 18 |   | [[lecture slides](https://www.overleaf.com/read/qbymzwsmjrxf) (updated)], [[lab slides](https://www.overleaf.com/read/vjmzpzgyctvm)] |
-|  |   | [[assignment 2](https://www.overleaf.com/read/bhzxzfjtfdfb)] (due Oct 16)  |
+|  |   | [[assignment 2](https://www.overleaf.com/read/bhzxzfjtfdfb), (due Oct 16)]   |
 |  | **classification**  | |
 | Oct 20 |  | [[lecture slides](https://www.overleaf.com/read/mmxnxpbkrgmh)], [[lab slides](https://www.overleaf.com/read/qtfbvxhdqvnv)] |
 |  |   | [no assignment on Oct 20]  |
@@ -27,7 +27,7 @@
 |  | *morphological segmentation*  | Suggested Readings:  <ul><li>[[Empirical Methods for Compound Splitting](http://www.aclweb.org/anthology/E03-1076)]</li> <li>[[Morphological Segmentation Inside-Out](https://www.aclweb.org/anthology/D16-1256/)]</li><li>[[Unsupervised Discovery of Morphemes](http://aclweb.org/anthology/W02-0603)]</li></ul>  |
 |  | *morphological paradigm* | Suggested Readings:  <ul><li>[[Supervised Learning of Complete Morphological Paradigms](https://www.aclweb.org/anthology/N13-1138)]</li></ul>  |
 | Oct 25, 27 |   | [lecture slides], [lab slides] |
-|  |   | [assignment 3] (due Nov 6)  |
+|  |   | [assignment 3, (due Nov 6)]   |
 
 
 
