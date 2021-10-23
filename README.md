@@ -32,7 +32,7 @@
 |  | *document alignment*  |  |
 |  | *word alignment*  |  |
 |  | *smt* |  |
-|  |   | [lecture slides], [lab slides] |
+| Nov  |   | [lecture slides], [lab slides] |
 
 
 
