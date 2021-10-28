@@ -317,7 +317,6 @@
 (S (STEM (C p)(C r)(V e)(C d)(V i)(C c)(C t)) (SUFFIX (V i)(V o)(C n)))
 (S (STEM (V i)(C n)(C t)(C r)(V i)(C c)(V a)(C t)(V e)) (SUFFIX (C l)(V y)))
 (S (PREFIX (V i)(C n)) (STEM (C c)(V o)(C n)(C v)(V e)(C n)(V i)(V e)(C n)(C t)))
-(S (S (STEM (C p)(C l)(V a)(C g)(V i)(V a)(C r)(V y)) ( (V i)(C s)(C m) suffix)) (SUFFIX (V i)(C s)(C t)))
 (S (STEM (C c)(V o)(C n)(C t)(C r)(V o)(C v)(V e)(C r)(C s)(V y)) (SUFFIX (V a)(C l)))
 (S (PREFIX (V u)(C n)) (STEM (C g)(V e)(C n)(V e)(C r)(V o)(V u)(C s)))
 (S (S (STEM (C b)(C r)(V u)(C t)(V e)) (SUFFIX (V a)(C l))) (SUFFIX (V i)(C t)(V y)))
