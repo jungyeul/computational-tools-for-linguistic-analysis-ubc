@@ -31,7 +31,7 @@
 |  | **machine translation**  | |
 |  | *document & word alignment*  |  |
 |  | *smt & nmt* |  |
-| Nov  |   | [[lecture slides](https://www.overleaf.com/read/pkcygpwhfmcy)], [[lab slides](https://www.overleaf.com/read/qswvsmjdymcg)] |
+| Nov 1, 3, 8  |   | [[lecture slides](https://www.overleaf.com/read/pkcygpwhfmcy)], [[lab slides](https://www.overleaf.com/read/qswvsmjdymcg)] |
 
 
 
