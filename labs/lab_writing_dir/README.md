@@ -1,7 +1,7 @@
 # Lab writing assignment
 
 1. Lab1 - Jasbrina
-1. Lab2 - Kiki & Mike
+1. Lab2 - Kiki and Mike
 1. Lab3 - Marcell
 1. Lab4 - Andrew
 1. Lab5 - Annabelle
