@@ -32,7 +32,7 @@
 |  | *document & word alignment*  |  |
 |  | *smt & nmt* |  |
 | Nov 1, 3, 8  |   | [[lecture slides](https://www.overleaf.com/read/pkcygpwhfmcy)], [[lab slides](https://www.overleaf.com/read/qswvsmjdymcg)] |
-
+|  |   | [[assignment 4, lab writing assignment, & project proposal](https://www.overleaf.com/read/wrswgmqbvfds), (due Nov 20 & Dec 1)]   |
 
 
 
