@@ -33,7 +33,8 @@
 |  | *smt & nmt* |  |
 | Nov 1, 3, 8  |   | [[lecture slides](https://www.overleaf.com/read/pkcygpwhfmcy)], [[lab slides](https://www.overleaf.com/read/qswvsmjdymcg)] |
 |  |   | [[assignment 4, lab writing assignment, & project proposal](https://www.overleaf.com/read/wrswgmqbvfds), (due Nov 20 & Dec 1)]   |
-
+| Nov 15  |   | [project initiation] [[nltk installation](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/LING242_NLTK_intro.ipynb)] |
+| Nov 17  |   | [python introduction] |
 
 
 ## office hours
