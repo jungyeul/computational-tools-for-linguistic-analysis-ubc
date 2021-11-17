@@ -35,7 +35,7 @@
 |  |   | [[assignment 4, lab writing assignment, & project proposal](https://www.overleaf.com/read/wrswgmqbvfds), (due Nov 20 & Dec 1)]   |
 |  | **python3**  | |
 | Nov 15  |   | [project initiation] [[nltk installation](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_NLTK_intro.ipynb)] |
-| Nov 17  |    | [python introduction, Edith]  |
+| Nov 17  |    | [[python introduction, Edith](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/tree/main/labs/python3)]  |
 | | | [[python lecture 1](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture1.ipynb)] [[deepnote](https://deepnote.com/project/LING-242-Python-November-2021-frddKr9HQouJKzt5Mq7fTg/%2FLING242_python_lecture1.ipynb)] |
 | | | [[python lecture 2](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture2.ipynb)] [[deepnote](https://deepnote.com/project/LING-242-Python-November-2021-frddKr9HQouJKzt5Mq7fTg/%2FLING242_python_lecture2.ipynb)] |
 | | | [python lecture 3] |
