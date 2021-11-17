@@ -34,15 +34,14 @@
 | Nov 1, 3, 8  |   | [[lecture slides](https://www.overleaf.com/read/pkcygpwhfmcy)], [[lab slides](https://www.overleaf.com/read/qswvsmjdymcg)] |
 |  |   | [[assignment 4, lab writing assignment, & project proposal](https://www.overleaf.com/read/wrswgmqbvfds), (due Nov 20 & Dec 1)]   |
 |  | **python3**  | |
-| Nov 15  |   | [project initiation] [[nltk installation](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/python3/LING242_NLTK_intro.ipynb)] |
+| Nov 15  |   | [project initiation] [[nltk installation](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_NLTK_intro.ipynb)] |
 | Nov 17  |    | [python introduction, Edith]  |
-| | | [[python lecture 1](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/python3/LING242_python_lecture1.ipynb)] |
-| | | [[python lecture 2](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/python3/LING242_python_lecture2.ipynb)] |
+| | | [[python lecture 1](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture1.ipynb)] [[deepnote link](https://deepnote.com/project/LING-242-Python-November-2021-frddKr9HQouJKzt5Mq7fTg/%2FLING242_python_lecture1.ipynb)] |
+| | | [[python lecture 2](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture2.ipynb)] |
 | | | [python lecture 1\&2  exercises] |
 | | | [python lecture 3] |
 | | | [python lecture 4] |
 | | | [python lecture 3\&4  exercises] |
-
 
 ## office hours
 * Jungyeul (Instructor): 9-10 am on Friday (in-person or online) [[zoom](https://ubc.zoom.us/j/4232149833?pwd=NDRpUFR4VjVWM2Qyd2sweGpNaFBadz09)]. Otherwise, upon appointment. To schedule an appointment, please send me an email, jungyeul _at_ mail.ubc.ca
