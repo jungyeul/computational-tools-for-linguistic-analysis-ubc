@@ -36,8 +36,8 @@
 |  | **python3**  | |
 | Nov 15  |   | [project initiation] [[nltk installation](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_NLTK_intro.ipynb)] |
 | Nov 17  |    | [python introduction, Edith]  |
-| | | [[python lecture 1](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture1.ipynb)] [[deepnote link](https://deepnote.com/project/LING-242-Python-November-2021-frddKr9HQouJKzt5Mq7fTg/%2FLING242_python_lecture1.ipynb)] |
-| | | [[python lecture 2](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture2.ipynb)] |
+| | | [[python lecture 1](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture1.ipynb)] [[deepnote](https://deepnote.com/project/LING-242-Python-November-2021-frddKr9HQouJKzt5Mq7fTg/%2FLING242_python_lecture1.ipynb)] |
+| | | [[python lecture 2](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture2.ipynb)] [[deepnote](https://deepnote.com/project/LING-242-Python-November-2021-frddKr9HQouJKzt5Mq7fTg/%2FLING242_python_lecture2.ipynb)] |
 | | | [python lecture 1\&2  exercises] |
 | | | [python lecture 3] |
 | | | [python lecture 4] |
