@@ -38,10 +38,10 @@
 | Nov 17  |    | [python introduction, Edith]  |
 | | | [[python lecture 1](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/python3/LING242_python_lecture1.ipynb)] |
 | | | [[python lecture 2]] |
-| | | [[python lecture 1\&2  revisited]] |
+| | | [[python lecture 1\&2  exercises]] |
 | | | [[python lecture 3]] |
 | | | [[python lecture 4]] |
-| | | [[python lecture 3\&4  revisited]] |
+| | | [[python lecture 3\&4  exercises]] |
 
 
 ## office hours
