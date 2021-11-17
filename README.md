@@ -37,7 +37,7 @@
 | Nov 15  |   | [project initiation] [[nltk installation](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/python3/LING242_NLTK_intro.ipynb)] |
 | Nov 17  |    | [python introduction, Edith]  |
 | | | [[python lecture 1](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/python3/LING242_python_lecture1.ipynb)] |
-| | | [python lecture 2] |
+| | | [[python lecture 2](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/python3/LING242_python_lecture2.ipynb)] |
 | | | [python lecture 1\&2  exercises] |
 | | | [python lecture 3] |
 | | | [python lecture 4] |
