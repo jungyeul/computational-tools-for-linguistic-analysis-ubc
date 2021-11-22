@@ -39,7 +39,7 @@
 | | *strings* | [[python lecture 1](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture1.ipynb)] [[deepnote](https://deepnote.com/project/LING-242-Python-November-2021-frddKr9HQouJKzt5Mq7fTg/%2FLING242_python_lecture1.ipynb)] |
 | | *corpora* | [[python lecture 2](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture2.ipynb)] [[deepnote](https://deepnote.com/project/LING-242-Python-November-2021-frddKr9HQouJKzt5Mq7fTg/%2FLING242_python_lecture2.ipynb)] |
 | | *lexicons* | [[python lecture 3](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture3.ipynb)] |
-| | | [python lecture 4] |
+| | *corpus statistics* | [python lecture 4] |
 
 ## office hours
 * Jungyeul (Instructor): 9-10 am on Friday (in-person or online) [[zoom](https://ubc.zoom.us/j/4232149833?pwd=NDRpUFR4VjVWM2Qyd2sweGpNaFBadz09)]. Otherwise, upon appointment. To schedule an appointment, please send me an email, jungyeul _at_ mail.ubc.ca
