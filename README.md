@@ -32,7 +32,7 @@
 |  | *document & word alignment*  |  |
 |  | *smt & nmt* |  |
 | Nov 1, 3, 8  |   | [[lecture slides](https://www.overleaf.com/read/pkcygpwhfmcy)], [[lab slides](https://www.overleaf.com/read/qswvsmjdymcg)] |
-|  |   | [[assignment 4, lab writing assignment, & project proposal](https://www.overleaf.com/read/wrswgmqbvfds), (due Nov 20 & Dec 1)]   |
+|  |   | [[assignment 4, lab writing assignment, & project proposal](https://www.overleaf.com/read/wrswgmqbvfds), (due Nov 20 & Dec 8)]   |
 |  | **python3**  | |
 | Nov 15  |   | [project initiation] [[nltk installation](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_NLTK_intro.ipynb)] |
 | Nov 17, 22  |    | [[python introduction, Edith](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/tree/main/labs/python3)] [[loop and condition](https://www.overleaf.com/read/nnccjgwjvxwh)] |
