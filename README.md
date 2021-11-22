@@ -36,9 +36,9 @@
 |  | **python3**  | |
 | Nov 15  |   | [project initiation] [[nltk installation](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_NLTK_intro.ipynb)] |
 | Nov 17, 22  |    | [[python introduction, Edith](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/tree/main/labs/python3)] [[loop and condition](https://www.overleaf.com/read/nnccjgwjvxwh)] |
-| | | [[python lecture 1](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture1.ipynb)] [[deepnote](https://deepnote.com/project/LING-242-Python-November-2021-frddKr9HQouJKzt5Mq7fTg/%2FLING242_python_lecture1.ipynb)] |
-| | | [[python lecture 2](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture2.ipynb)] [[deepnote](https://deepnote.com/project/LING-242-Python-November-2021-frddKr9HQouJKzt5Mq7fTg/%2FLING242_python_lecture2.ipynb)] |
-| | | [[python lecture 3](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture3.ipynb)] |
+| | | Strings: [[python lecture 1](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture1.ipynb)] [[deepnote](https://deepnote.com/project/LING-242-Python-November-2021-frddKr9HQouJKzt5Mq7fTg/%2FLING242_python_lecture1.ipynb)] |
+| | | Corpora: [[python lecture 2](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture2.ipynb)] [[deepnote](https://deepnote.com/project/LING-242-Python-November-2021-frddKr9HQouJKzt5Mq7fTg/%2FLING242_python_lecture2.ipynb)] |
+| | | Lexicons: [[python lecture 3](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture3.ipynb)] |
 | | | [python lecture 4] |
 
 ## office hours
