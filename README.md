@@ -41,7 +41,7 @@
 | | | [[python exercise 1](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_ex1.ipynb)] [solution] |
 | | *lexicons* | [[python lecture 3](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture3.ipynb)] |
 | | *corpus statistics* | [[python lecture 4](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture4.ipynb)] |
-| | | [[python exercise 2]] [solution] |
+| | | [python exercise 2] [solution] |
 
 ## office hours
 * Jungyeul (Instructor): 9-10 am on Friday (in-person or online) [[zoom](https://ubc.zoom.us/j/4232149833?pwd=NDRpUFR4VjVWM2Qyd2sweGpNaFBadz09)]. Otherwise, upon appointment. To schedule an appointment, please send me an email, jungyeul _at_ mail.ubc.ca
