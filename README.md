@@ -44,7 +44,7 @@
 | | *regular experessions* | [[python lecture 5](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture5.ipynb)] |
 | | *xml* | [[python lecture 6](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture6.ipynb)] |
 | Nov. 29 | *text processing* | [[python lecture 6](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture7_process.ipynb)] |
-| Dec 1 |    | [assignment 5] |
+| Dec 1 |    | [assignment 5] (due Dec 1) |
 | Dec 6 |    | [recitation] |
 
 
