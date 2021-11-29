@@ -45,7 +45,9 @@
 | | *xml* | [[python lecture 6](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture6.ipynb)] |
 | Nov. 29 | *text processing* | [[python lecture 7](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture7_process.ipynb)] |
 | Dec 1 |    | [assignment 5] (due Dec 1) |
+| Dec 4 |    | due for the lab writing assignment feedback |
 | Dec 6 |    | [recitation] |
+| Dec 11 |    | due for the lab writing assignment |
 
 
 ## office hours
