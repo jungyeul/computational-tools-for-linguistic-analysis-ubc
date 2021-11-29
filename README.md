@@ -36,14 +36,14 @@
 |  | **python3**  | |
 | Nov 15  |   | [project initiation] [[nltk installation](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_NLTK_intro.ipynb)] |
 | Nov 17, 22, 24  |    | [[python introduction, Edith](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/tree/main/labs/python3)] [[loop and condition](https://www.overleaf.com/read/nnccjgwjvxwh)] |
-| | *strings* | [[python lecture 1](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture1.ipynb)] [[deepnote](https://deepnote.com/project/LING-242-Python-November-2021-frddKr9HQouJKzt5Mq7fTg/%2FLING242_python_lecture1.ipynb)] |
-| | *corpora* | [[python lecture 2](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture2.ipynb)] [[deepnote](https://deepnote.com/project/LING-242-Python-November-2021-frddKr9HQouJKzt5Mq7fTg/%2FLING242_python_lecture2.ipynb)] |
-| | | [[python exercise 1](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_ex1.ipynb)] [solution] |
+| | *strings* | [[python lecture 1](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture1.ipynb)] |
+| | *corpora* | [[python lecture 2](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture2.ipynb)]  |
+| | | [[python exercise 1](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_ex1.ipynb)]  |
 | | *lexicons* | [[python lecture 3](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture3.ipynb)] |
 | | *corpus statistics* | [[python lecture 4](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture4.ipynb)] |
-| | *regular experessions* | [[python lecture 4](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture5.ipynb)] |
-| | *xml* | [[python lecture 4](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture6.ipynb)] |
-| Nov. 29 | *text processing* | [[python lecture 4](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture7_process.ipynb)] |
+| | *regular experessions* | [[python lecture 5](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture5.ipynb)] |
+| | *xml* | [[python lecture 6](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture6.ipynb)] |
+| Nov. 29 | *text processing* | [[python lecture 6](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture7_process.ipynb)] |
 | Dec 1 |    | [assignment 5] |
 | Dec 6 |    | [recitation] |
 
