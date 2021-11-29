@@ -41,8 +41,9 @@
 | | | [[python exercise 1](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_ex1.ipynb)] [solution] |
 | | *lexicons* | [[python lecture 3](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture3.ipynb)] |
 | | *corpus statistics* | [[python lecture 4](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture4.ipynb)] |
-| | | [python exercise 2] [solution] |
-| Nov 29  |    | [*CL* using nltk] |
+| | *regular experessions* | [[python lecture 4](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture5.ipynb)] |
+| | *xml* | [[python lecture 4](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture6.ipynb)] |
+| Nov. 29 | *text processing* | [[python lecture 4](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/python3/LING242_python_lecture7_process.ipynb)] |
 | Dec 1 |    | [assignment 5] |
 | Dec 6 |    | [recitation] |
 
