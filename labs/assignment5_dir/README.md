@@ -7,3 +7,4 @@
 | Annabelle and Andrew | yomify | https://github.com/ubcars/yomify  (private) |
 | Leah  | linguistic analysis on song lyrics | https://github.com/eleahj/ling_242_project |
 | Grace  |  | https://github.com/zhanginc/ling242Project (private) |
+| Kiki | german verb inflection - supervised morphological paradigms |https://github.com/wkkwt/Kiki_German-Verb-Inflection_Supervised-morphological-Paradigm|
