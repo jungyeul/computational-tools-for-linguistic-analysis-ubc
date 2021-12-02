@@ -12,4 +12,4 @@
 | Marcell | maitinsky agglutination machine | https://github.com/marcellmaitinsky/242-project  (private)|
 
 
-word_it_
+word(it)now
