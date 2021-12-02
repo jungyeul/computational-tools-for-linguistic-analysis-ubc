@@ -8,3 +8,4 @@
 | Leah  | linguistic analysis on song lyrics | https://github.com/eleahj/ling_242_project |
 | Grace  | Sheldon's words  | https://github.com/zhanginc/ling242Project (private) |
 | Kiki | german verb inflection - supervised morphological paradigms |https://github.com/wkkwt/Kiki_German-Verb-Inflection_Supervised-morphological-Paradigm|
+| Jasbrina | sentimental analysis of youtube comments | https://github.com/Jasbrina/Sentimental-Analysis-Youtube|
