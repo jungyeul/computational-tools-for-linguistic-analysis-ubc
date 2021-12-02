@@ -10,3 +10,6 @@
 | Kiki | german verb inflection - supervised morphological paradigms |https://github.com/wkkwt/Kiki_German-Verb-Inflection_Supervised-morphological-Paradigm|
 | Jasbrina | sentimental analysis of youtube comments | https://github.com/Jasbrina/Sentimental-Analysis-Youtube|
 | Marcell | maitinsky agglutination machine | https://github.com/marcellmaitinsky/242-project  (private)|
+
+
+word_it_
