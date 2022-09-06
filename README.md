@@ -3,7 +3,7 @@
 ## schedule
 | date |	description	 |course materials |
 | ------------ | ------------ | ------------  |
-|  |  | [[syllabus & course policy](https://www.overleaf.com/read/twjqrgnvwzdq)] |
+| 2022 |  | [[syllabus & course policy](https://www.overleaf.com/read/twjqrgnvwzdq)] |
 |  | *shell commands*  |  |
 | Sep 7 |   | [[lecture slides]()] [[lab slides]()] |
 |  | **preprocessing**  | |
@@ -31,9 +31,8 @@
 
 
 ## office hours
-* Jungyeul (Instructor): 9-10 am on Friday (online) [[zoom](https://ubc.zoom.us/j/4232149833?pwd=NDRpUFR4VjVWM2Qyd2sweGpNaFBadz09)]
+* Jungyeul (Instructor): 9-10AM on Friday (online) [[zoom](https://ubc.zoom.us/j/4232149833?pwd=NDRpUFR4VjVWM2Qyd2sweGpNaFBadz09)]
 * Yadong (TA): TBD 
 
 ## materials
 * _Speech and Language Processing_ (3rd ed. draft) [[link](https://web.stanford.edu/~jurafsky/slp3/)]
-* NLTK book (_Natural Language Processing with Python_) [[link](https://www.nltk.org/book/)]
