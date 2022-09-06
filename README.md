@@ -1,4 +1,4 @@
-# Computational Tools for Linguistic Analysis @UBC (Winter 2021)
+# LING 242 Computational Tools for Linguistic Analysis @UBC (Winter 2022)
 
 ## schedule
 | date |	description	 |course materials |
