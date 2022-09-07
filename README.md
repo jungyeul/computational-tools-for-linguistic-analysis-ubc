@@ -33,7 +33,7 @@
 
 ## office hours
 * Jungyeul (Instructor): 9-10AM on Friday (online) [[zoom](https://ubc.zoom.us/j/4232149833?pwd=NDRpUFR4VjVWM2Qyd2sweGpNaFBadz09)]
-* Yadong (TA): 9:30-10:30AM on Thursday (online) [zoom]
+* Yadong (TA): 9:30-10:30AM on Thursday (online) [[zoom](https://ubc.zoom.us/j/7991431149?pwd=d2tOV0pranhJbzUrZnpmRExoVnRYQT09)]
 
 ## materials
 * _Speech and Language Processing_ (3rd ed. draft) [[link](https://web.stanford.edu/~jurafsky/slp3/)]
