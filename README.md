@@ -6,7 +6,7 @@
 | 2022 |  | [[syllabus](https://www.overleaf.com/read/twjqrgnvwzdq)] |
 |  | *shell commands*  |  |
 | Sep 7 |   | [[lecture slides](https://www.overleaf.com/read/fqqrwxqkjmtb)], [[lab slides](https://www.overleaf.com/read/djddcbxmfqhj)], [[lab suppl](https://docs.google.com/presentation/d/1KZxnS9p1-nAVYxKCkWT7EsyqbdiLRWvfjATUBZaAPcg/edit?usp=sharing) (Command lines in PC by Yadong)] |
-|  |  |  [[assignment 1](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/lab1.ipynb) (Due Sep 13)]  |
+|  |  |  [[assignment 1](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/lab1.ipynb) (Due 11:59PM on Sep 13)]  |
 |  | **preprocessing**  | |
 |  |  *tokenization*  |  Suggested Readings:  <ul><li>[[Tokenization: Returning to a Long Solved Problem](http://aclweb.org/anthology/P/P12/P12-2074.pdf)]</li></ul>  |
 |   | *sentence boundary detection*   |   Suggested Readings:  <ul><li>[[Sentence Boundary Detection and the Problem with the U.S.](http://aclweb.org/anthology/N/N09/N09-2061.pdf)]</li><li>[[Sentence Boundary Detection: A Long Solved Problem?](http://aclweb.org/anthology/C/C12/C12-2096.pdf)]</li></ul> |
@@ -33,7 +33,7 @@
 
 ## office hours
 * Jungyeul (Instructor): 9-10AM on Friday (online) [[zoom](https://ubc.zoom.us/j/4232149833?pwd=NDRpUFR4VjVWM2Qyd2sweGpNaFBadz09)]
-* Yadong (TA): TBD 
+* Yadong (TA): 9:30-10:30AM on Thursday (online) [[zoom](https://ubc.zoom.us/j/7991431149?pwd=d2tOV0pranhJbzUrZnpmRExoVnRYQT09)]
 
 ## materials
 * _Speech and Language Processing_ (3rd ed. draft) [[link](https://web.stanford.edu/~jurafsky/slp3/)]
