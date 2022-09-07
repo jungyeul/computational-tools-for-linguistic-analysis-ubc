@@ -9,7 +9,7 @@
 |  | **preprocessing**  | |
 |  |  *tokenization*  |  Suggested Readings:  <ul><li>[[Tokenization: Returning to a Long Solved Problem](http://aclweb.org/anthology/P/P12/P12-2074.pdf)]</li></ul>  |
 |   | *sentence boundary detection*   |   Suggested Readings:  <ul><li>[[Sentence Boundary Detection and the Problem with the U.S.](http://aclweb.org/anthology/N/N09/N09-2061.pdf)]</li><li>[[Sentence Boundary Detection: A Long Solved Problem?](http://aclweb.org/anthology/C/C12/C12-2096.pdf)]</li></ul> |
-|  |   | [[lecture slides]() (tokenization)], [[lecture slides]() (sbd)], [[lab slides]()] |
+|  |   | [[lecture slides] (tokenization)], [[lecture slides] (sbd)], [[lab slides]()] |
 |  | **lm**  | Suggested Readings:  <ul><li>[[Chap. 3, N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/3.pdf)], [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)</li></ul>  |
 |  |   | [[lecture slides]()], [[lab slides]()]  |
 |  | **pos tagging & sequence labeling algorithms**  | |
