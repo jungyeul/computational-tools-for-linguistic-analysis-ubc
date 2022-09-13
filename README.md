@@ -7,12 +7,12 @@
 | Week 1 | *shell commands*  |  |
 |  |   | [[Lecture 0 slides](https://www.overleaf.com/read/fqqrwxqkjmtb)], [[Lab 0 slides](https://www.overleaf.com/read/djddcbxmfqhj)], [[lab suppl](https://docs.google.com/presentation/d/1KZxnS9p1-nAVYxKCkWT7EsyqbdiLRWvfjATUBZaAPcg/edit?usp=sharing) (Command lines in PC by Yadong)] |
 |  |  |  [[Assignment 0](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/lab0/lab0.ipynb) (Due 11:59PM on Sep 13)] [[Assignment 0 described](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/lab0/lab0_description.ipynb)] |
-| Week 2-3 | **preprocessing**  |  [[pre-survey](https://ubc.ca1.qualtrics.com/jfe/form/SV_bei7QNTDqNmR2rc)]|
+| Week 2-3 | **preprocessing**  |  [[Pre-survey 1](https://ubc.ca1.qualtrics.com/jfe/form/SV_bei7QNTDqNmR2rc)]|
 |  |  *tokenization*  |  Suggested Readings:  <ul><li>[[Tokenization: Returning to a Long Solved Problem](http://aclweb.org/anthology/P/P12/P12-2074.pdf)]</li></ul>  |
 |   | *sentence boundary detection*   |   Suggested Readings:  <ul><li>[[Sentence Boundary Detection and the Problem with the U.S.](http://aclweb.org/anthology/N/N09/N09-2061.pdf)]</li><li>[[Sentence Boundary Detection: A Long Solved Problem?](http://aclweb.org/anthology/C/C12/C12-2096.pdf)]</li></ul> |
 |  |   | [[Lecture 1 slides](https://www.overleaf.com/read/scpjfcgjvqyt)], [[Lab 1 slides]] |
 |  |  |  [[Assignment 1] (Due 11:59PM on Sep 27)]  |
-|  |   |  [[post-survey]] |
+|  |   |  [[Post-survey 1]] |
 | Week 4  | **lm**  | Suggested Readings:  <ul><li>[[Chap. 3, N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/3.pdf)], [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)</li></ul>  |
 |  |   | [[lecture slides]], [[lab  slides]]  |
 | Week 5-7 | **pos tagging & sequence labeling algorithms**  | |
