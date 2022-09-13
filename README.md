@@ -20,7 +20,7 @@
 |  |   | [[lecture slides]], [[lab slides]] |
 | Week 8-10 | **syntax**  | |
 |  | *parsing* |  Suggested Readings:  <ul><li>[Chap. 12, [Constituency Grammars](https://web.stanford.edu/~jurafsky/slp3/12.pdf)], Speech and Language Processing (3rd ed. draft)</li>   <li>[Chap. 13, [Constituency Parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf)]</li>   <li>[Chap. 14, [Dependency Parsing](https://web.stanford.edu/~jurafsky/slp3/14.pdf)]</li> </ul>  |
-|  |   | [[lecture slides]], [[Lab slides]] |
+|  |   | [[lecture slides]], [[lab slides]] |
 | Week 11 | **classification**  | |
 |  |  | [[lecture slides]], [[lab slides]] |
 | Week 12-13 | **morphology**  | |
