@@ -15,7 +15,7 @@
 |  |   |  [[Post-survey 1]] |
 | Week 4  | **lm**  |  |
 |   |   | Suggested Readings:  <ul><li>[[Chap. 3, N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/3.pdf)], [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)</li></ul>  |
-|  |   | [[lecture slides]], [[lab  slides]]  |
+|  |   | [[lecture slides](https://www.overleaf.com/read/fwxbpssbqkkm)], [[lab  slides]]  |
 | Week 5-7 | **pos tagging & sequence labeling algorithms**  | |
 |  | *morphosyntax tasks in nlp & hmm* |  Suggested Readings:  <ul><li>[[Chap. 8, Sequence Labeling for Parts of Speech and Named Entities](https://web.stanford.edu/~jurafsky/slp3/8.pdf)], Speech and Language Processing (3rd ed. draft)</li>  <li>[[Chunking](https://www.clips.uantwerpen.be/conll2000/chunking/)], CoNLL-2000 Shared Task</li> <li>[[Language-Independent Named Entity Recognition](https://www.clips.uantwerpen.be/conll2003/ner/)], CoNLL-2003 Shared Task</li><li>[[Semantic Role Labeling](http://www.lsi.upc.edu/~srlconll/)], CoNLL-2004 and CoNLL-2005 Shared Tasks</li> </ul>  |
 |  |   | [[lecture slides]], [[lab slides]] |
