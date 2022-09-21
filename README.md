@@ -13,7 +13,7 @@
 |  |   | [[Lecture 1 slides](https://www.overleaf.com/read/scpjfcgjvqyt)], [[Lab 1 slides](https://www.overleaf.com/read/nfnzdfpcvnqq)] |
 |  |  |  [[Assignment 1](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/lab1/lab1.ipynb) (Due 11:59PM on Sep 27)] [[Assignment 1 described](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/lab1/lab1_description.ipynb) (Kiki)] |
 |  |   |  [[Post-survey 1](https://ubc.ca1.qualtrics.com/jfe/form/SV_6kTRZoh5OpASOB8)] |
-| Week 4  | **lm**  | [[Pre-survey 2]] |
+| Week 4  | **lm**  | [[Pre-survey 2](https://ubc.ca1.qualtrics.com/jfe/form/SV_55RjJcUA08EgBM2)] |
 |   |   | Suggested Readings:  <ul><li>[[Chap. 3, N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/3.pdf)], [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)</li></ul>  |
 |  |   | [[lecture slides](https://www.overleaf.com/read/fwxbpssbqkkm)], [[lab  slides]]  |
 | Week 5-7 | **pos tagging & sequence labeling algorithms**  | |
