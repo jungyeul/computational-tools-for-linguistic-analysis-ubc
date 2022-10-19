@@ -22,7 +22,7 @@
 |  | *morphosyntax tasks in nlp & hmm* |  Suggested Readings:  <ul><li>[[Chap. 8, Sequence Labeling for Parts of Speech and Named Entities](https://web.stanford.edu/~jurafsky/slp3/8.pdf)], Speech and Language Processing (3rd ed. draft)</li>  <li>[[Chunking](https://www.clips.uantwerpen.be/conll2000/chunking/)], CoNLL-2000 Shared Task</li> <li>[[Language-Independent Named Entity Recognition](https://www.clips.uantwerpen.be/conll2003/ner/)], CoNLL-2003 Shared Task</li><li>[[Semantic Role Labeling](http://www.lsi.upc.edu/~srlconll/)], CoNLL-2004 and CoNLL-2005 Shared Tasks</li> </ul>  |
 |  |   | [[Lecture 3 slides](https://www.overleaf.com/read/hxwyvymgyxsy)], [[lab slides](https://www.overleaf.com/read/drrppbcnfdhy)] |
 |  |   | [[Assignment 3](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/lab3/lab3.ipynb) (Due 11:59PM on Oct 25)] [[Assignment 3 described](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/lab3/lab3_description.ipynb) (Andrew)] |
-|  |   | [[Post-survey 3 pos tagging & sequence labeling algorithms] (https://ubc.ca1.qualtrics.com/jfe/form/SV_bd9QISPxeAv60ce)]|
+|  |   | [[Post-survey 3 pos tagging & sequence labeling algorithms](https://ubc.ca1.qualtrics.com/jfe/form/SV_bd9QISPxeAv60ce)]|
 | Week 8-10 | **syntax**  | |
 |  | *parsing* |  Suggested Readings:  <ul><li>[Chap. 12, [Constituency Grammars](https://web.stanford.edu/~jurafsky/slp3/12.pdf)], Speech and Language Processing (3rd ed. draft)</li>   <li>[Chap. 13, [Constituency Parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf)]</li>   <li>[Chap. 14, [Dependency Parsing](https://web.stanford.edu/~jurafsky/slp3/14.pdf)]</li> </ul>  |
 |  |   | [[lecture slides]], [[lab slides]] |
