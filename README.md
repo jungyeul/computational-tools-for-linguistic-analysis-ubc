@@ -25,7 +25,7 @@
 |  |   | [[Post-survey 3 pos tagging & sequence labeling algorithms](https://ubc.ca1.qualtrics.com/jfe/form/SV_bd9QISPxeAv60ce)]|
 | Week 8-10 | **syntax**  | [[Pre-survey 4 syntax](https://ubc.ca1.qualtrics.com/jfe/form/SV_0O0ovcpC8R0r1Ma)]|
 |  | *parsing* |  Suggested Readings:  <ul><li>[Chap. 12, [Constituency Grammars](https://web.stanford.edu/~jurafsky/slp3/12.pdf)], Speech and Language Processing (3rd ed. draft)</li>   <li>[Chap. 13, [Constituency Parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf)]</li>   <li>[Chap. 14, [Dependency Parsing](https://web.stanford.edu/~jurafsky/slp3/14.pdf)]</li> </ul>  |
-|  |   | [[Lecture 4 slides](https://www.overleaf.com/read/qbymzwsmjrxf)], [[Lab 4 slides]] |
+|  |   | [[Lecture 4 slides](https://www.overleaf.com/read/qbymzwsmjrxf)], [[Lab 4 slides](https://www.overleaf.com/read/vcxhmpjgnwzf)] |
 | Week 11 | **classification**  | |
 |  |  | [[lecture slides]], [[lab slides]] |
 | Week 12-13 | **morphology**  | |
