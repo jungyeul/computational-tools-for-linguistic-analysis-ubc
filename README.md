@@ -1,6 +1,6 @@
 # LING 242 Computational Tools for Linguistic Analysis @UBC (Winter 2022)
 
-![](https://raw.githubusercontent.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/main/labs/LSURC.png)
+![]([https://raw.githubusercontent.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/main/labs/LSURC.png](https://blogs.ubc.ca/lsurc/]))
 
 
 ## schedule
