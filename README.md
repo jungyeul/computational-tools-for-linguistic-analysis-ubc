@@ -29,7 +29,7 @@
 | Week 8-10 | **syntax**  | [[Pre-survey 4 syntax](https://ubc.ca1.qualtrics.com/jfe/form/SV_0O0ovcpC8R0r1Ma)]|
 |  | *parsing* |  Suggested Readings:  <ul><li>[Chap. 12, [Constituency Grammars](https://web.stanford.edu/~jurafsky/slp3/12.pdf)], Speech and Language Processing (3rd ed. draft)</li>   <li>[Chap. 13, [Constituency Parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf)]</li>   <li>[Chap. 14, [Dependency Parsing](https://web.stanford.edu/~jurafsky/slp3/14.pdf)]</li> </ul>  |
 |  |   | [[Lecture 4 slides](https://www.overleaf.com/read/qbymzwsmjrxf)], [[Lab 4 slides](https://www.overleaf.com/read/vcxhmpjgnwzf)] |
-|  |   | [[Assignment 4](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/lab4/lab4.ipynb) (Due 11:59PM on Nov 8)] [[Assignment 4 described](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/lab4/lab4_description.ipynb) (Annabelle)] [[CNF conversion](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/lab4/ling242_syntax.ipynb)] |
+|  |   | [[Assignment 4](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/lab4/lab4.ipynb) (Due 11:59PM on Nov 15)] [[Assignment 4 described](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/lab4/lab4_description.ipynb) (Annabelle)] [[CNF conversion](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/lab4/ling242_syntax.ipynb)] |
 | Week 11 | **classification**  | |
 |  |  | [[lecture slides]], [[lab slides]] |
 | Week 12-13 | **morphology**  | |
