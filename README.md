@@ -32,7 +32,7 @@
 |  |   | [[Assignment 4](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/lab4/lab4.ipynb) (Due 11:59PM on Nov 15)] [[Assignment 4 described](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/lab4/lab4_description.ipynb) (Annabelle)] [[CNF conversion](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/lab4/ling242_syntax.ipynb)] |
 |  |   | [[Post-survey 4 syntax](https://ubc.ca1.qualtrics.com/jfe/form/SV_9ofVXWkBxOmresK)]|
 | Week 11 | **classification**  | |
-|  |  | [[lecture slides]], [[lab slides]] |
+|  |  | [[Lecture 5 slides](https://www.overleaf.com/read/mmxnxpbkrgmh)], [[Lab 5 slides]] |
 | Week 12-13 | **morphology**  | |
 |  | *morphological segmentation*  | Suggested Readings:  <ul><li>[[Empirical Methods for Compound Splitting](http://www.aclweb.org/anthology/E03-1076)]</li> <li>[[Morphological Segmentation Inside-Out](https://www.aclweb.org/anthology/D16-1256/)]</li><li>[[Unsupervised Discovery of Morphemes](http://aclweb.org/anthology/W02-0603)]</li></ul>  |
 |  | *morphological paradigm* | Suggested Readings:  <ul><li>[[Supervised Learning of Complete Morphological Paradigms](https://www.aclweb.org/anthology/N13-1138)]</li></ul>  |
