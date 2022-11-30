@@ -44,7 +44,7 @@
 | Week 13-14 | **machine translation**  | |
 |  | *document & word alignment*  |  |
 |  | *smt & nmt* |  |
-|   |   | [[lecture slides]], [[lab slides]] |
+|   |   | [[Lecture 7 slides](https://www.overleaf.com/read/pkcygpwhfmcy)]  |
 
 
 ## office hours
