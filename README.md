@@ -38,7 +38,7 @@
 | Week 12-13 | **morphology**  | [[Pre-survey 6 morphology](https://ubc.ca1.qualtrics.com/jfe/form/SV_1C6yR4Tb3XVR0Lc)]|
 |  | *morphological segmentation*  | Suggested Readings:  <ul><li>[[Empirical Methods for Compound Splitting](http://www.aclweb.org/anthology/E03-1076)]</li> <li>[[Morphological Segmentation Inside-Out](https://www.aclweb.org/anthology/D16-1256/)]</li><li>[[Unsupervised Discovery of Morphemes](http://aclweb.org/anthology/W02-0603)]</li></ul>  |
 |  | *morphological paradigm* | Suggested Readings:  <ul><li>[[Supervised Learning of Complete Morphological Paradigms](https://www.aclweb.org/anthology/N13-1138)]</li></ul>  |
-| |   | [[Lecture 6 slides](https://www.overleaf.com/read/dddsbnghbhwd)], [[lab slides](https://www.overleaf.com/read/pcpsmmyvfktw)] |
+| |   | [[Lecture 6 slides](https://www.overleaf.com/read/dddsbnghbhwd)], [[Lab 6 slides](https://www.overleaf.com/read/pcpsmmyvfktw)] |
 |  |   | [[Assignment 6](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/lab6/lab6.ipynb) (Due 11:59PM on Dec 13)] [[Assignment 6 described](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/lab6/lab6_description.ipynb) (Maya)]  |
 |  |   | [[Post-survey 6 morphology]]|
 | Week 13-14 | **machine translation**  | |
