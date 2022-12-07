@@ -40,7 +40,7 @@
 |  | *morphological paradigm* | Suggested Readings:  <ul><li>[[Supervised Learning of Complete Morphological Paradigms](https://www.aclweb.org/anthology/N13-1138)]</li></ul>  |
 | |   | [[Lecture 6 slides](https://www.overleaf.com/read/dddsbnghbhwd)], [[Lab 6 slides](https://www.overleaf.com/read/pcpsmmyvfktw)] |
 |  |   | [[Assignment 6](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/lab6/lab6.ipynb) (Due 11:59PM on Dec 13)] [[Assignment 6 described](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/lab6/lab6_description.ipynb) (Maya)]  |
-|  |   | [[Post-survey 6 morphology]]|
+|  |   | [[Post-survey 6 morphology](https://ubc.ca1.qualtrics.com/jfe/form/SV_0iiBuulWRq9aZ4a)]|
 | Week 13-14 | **machine translation**  | |
 |  | *document & word alignment*  |  |
 |  | *smt & nmt* |  |
