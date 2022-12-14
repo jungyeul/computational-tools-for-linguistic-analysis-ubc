@@ -45,7 +45,6 @@
 |  | *document & word alignment*  |  |
 |  | *smt & nmt* |  |
 |   |   | [[Lecture 7 slides](https://www.overleaf.com/read/pkcygpwhfmcy)] [Lab 7] |
-|   |   | [[Recitation](https://www.overleaf.com/read/ppqbsqxjnjmj)] |
 
 
 
