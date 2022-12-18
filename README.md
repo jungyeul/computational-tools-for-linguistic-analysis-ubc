@@ -44,14 +44,14 @@
 | Week 13-14 | **machine translation**  | |
 |  | *document & word alignment*  |  |
 |  | *smt & nmt* |  |
-|   |   | [[Lecture 7 slides](https://www.overleaf.com/read/pkcygpwhfmcy)] [Lab 7] |
+|   |   | [[Lecture 7 slides](https://www.overleaf.com/read/pkcygpwhfmcy)] |
 
 
 
 
 ## office hours
-* Jungyeul (Instructor): 9-10AM on Friday (online) [[zoom](https://ubc.zoom.us/j/4232149833?pwd=NDRpUFR4VjVWM2Qyd2sweGpNaFBadz09)], (email: jungyeul _at_ mail.ubc.ca)
-* Yadong (TA): 9:30-10:30AM on Thursday (online) [[zoom](https://ubc.zoom.us/j/7991431149?pwd=d2tOV0pranhJbzUrZnpmRExoVnRYQT09)], (email: yadong.liu _at_ ubc.ca)
+* Jungyeul (Instructor): 9-10AM on Friday (online) [zoom], (email: jungyeul _at_ mail.ubc.ca)
+* Yadong (TA): 9:30-10:30AM on Thursday (online) [zoom], (email: yadong.liu _at_ ubc.ca)
 
 ## materials
 * _Speech and Language Processing_ (3rd ed. draft) [[link](https://web.stanford.edu/~jurafsky/slp3/)]
