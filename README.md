@@ -1,4 +1,4 @@
-# LING 242 Computational Tools for Linguistic Analysis @UBC (Winter 2022)
+# LING 242 Computational Tools for Linguistic Analysis @UBC (Winter 2024)
 
 ![](https://raw.githubusercontent.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/main/labs/LING242.png)
 
@@ -51,7 +51,7 @@
 
 ## office hours
 * Jungyeul (Instructor): 9-10AM on Friday (online) [zoom], (email: jungyeul _at_ mail.ubc.ca)
-* Yadong (TA): 9:30-10:30AM on Thursday (online) [zoom], (email: yadong.liu _at_ ubc.ca)
+
 
 ## materials
 * _Speech and Language Processing_ (3rd ed. draft) [[link](https://web.stanford.edu/~jurafsky/slp3/)]
