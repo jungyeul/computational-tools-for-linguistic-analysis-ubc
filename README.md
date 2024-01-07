@@ -16,6 +16,10 @@
 |  |   | [[Lecture 1 slides](https://www.overleaf.com/read/scpjfcgjvqyt)], [[Lab 1 slides](https://www.overleaf.com/read/nfnzdfpcvnqq)] |
 
 
+- [lecture] 9:30-10:45AM on Monday and Wednesday 
+- [lab] 10-11:30AM Friday (Bring Your Own Laptop)
+
+
 ## office hours
 * Jungyeul (Instructor): 6-7PM on Thursday (in-person [ORCH 4018], online [zoom]), (email: jungyeul _at_ mail.ubc.ca)
 * Anna (TA): 
