@@ -1,4 +1,5 @@
-# LING 242 Computational Tools for Linguistic Analysis @UBC (Winter 2024)
+# LING 242 Computational Tools for Linguistic Analysis 
+### @UBC (Winter Term 2 2023/24)
 
 ![](https://raw.githubusercontent.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/main/labs/LING242.png)
 
