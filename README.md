@@ -11,8 +11,8 @@
 | Unit 1 | *shell commands*  |  |
 |  |   | [[Lecture 0 slides](https://www.overleaf.com/read/fqqrwxqkjmtb)], [[Lab 0 slides](https://www.overleaf.com/read/djddcbxmfqhj)], [[lab suppl - command lines in PC](https://docs.google.com/presentation/d/1KZxnS9p1-nAVYxKCkWT7EsyqbdiLRWvfjATUBZaAPcg/edit?usp=sharing) (Yadong)] |
 | Unit 2 | **preprocessing**  |  |
-|  |  *tokenization*  |  Suggested Readings:  <ul><li>[[Tokenization: Returning to a Long Solved Problem](http://aclweb.org/anthology/P/P12/P12-2074.pdf)]</li></ul>  |
 |   | *sentence boundary detection*   |   Suggested Readings:  <ul><li>[[Sentence Boundary Detection and the Problem with the U.S.](http://aclweb.org/anthology/N/N09/N09-2061.pdf)]</li><li>[[Sentence Boundary Detection: A Long Solved Problem?](http://aclweb.org/anthology/C/C12/C12-2096.pdf)]</li></ul> |
+|  |  *tokenization*  |  Suggested Readings:  <ul><li>[[Tokenization: Returning to a Long Solved Problem](http://aclweb.org/anthology/P/P12/P12-2074.pdf)]</li></ul>  |
 |  |   | [[Lecture 1 slides](https://www.overleaf.com/read/scpjfcgjvqyt)], [[Lab 1 slides](https://www.overleaf.com/read/nfnzdfpcvnqq)] |
 
 
