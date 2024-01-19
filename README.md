@@ -23,7 +23,7 @@
 
 ## office hours
 * Jungyeul (Instructor): 6-7PM on Thursday (in-person [ORCH 4018], online [zoom]), (email: jungyeul _at_ mail.ubc.ca)
-* Anna (TA): 11:30AM-12:30PM on Wednesday (in-person [starting soon], online [[zoom](https://ubc.zoom.us/j/69613535166?pwd=ZlRKNVpHbDRSbVZOd1MxbEFzNmdFUT09)]), (email: annajs _at_ student.ubc.ca)
+* Anna (TA): 11:30AM-12:30PM on Wednesday (in-person [Buchanan B - B144], online [[zoom](https://ubc.zoom.us/j/69613535166?pwd=ZlRKNVpHbDRSbVZOd1MxbEFzNmdFUT09)]), (email: annajs _at_ student.ubc.ca)
 
 ## reference materials
 * _Speech and Language Processing_ (3rd ed. draft) [[link](https://web.stanford.edu/~jurafsky/slp3/)]
