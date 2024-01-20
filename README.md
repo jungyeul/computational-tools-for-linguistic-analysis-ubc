@@ -15,6 +15,12 @@
 |   | *sentence boundary detection*   |   Suggested Readings:  <ul><li>[[Sentence Boundary Detection and the Problem with the U.S.](http://aclweb.org/anthology/N/N09/N09-2061.pdf)]</li><li>[[Sentence Boundary Detection: A Long Solved Problem?](http://aclweb.org/anthology/C/C12/C12-2096.pdf)]</li></ul> |
 |  |  *tokenization*  |  Suggested Readings:  <ul><li>[[Tokenization: Returning to a Long Solved Problem](http://aclweb.org/anthology/P/P12/P12-2074.pdf)]</li></ul>  |
 |  |   | [[Unit 1 slides](https://www.overleaf.com/read/scpjfcgjvqyt)], [[Lab 1 slides](https://www.overleaf.com/read/nfnzdfpcvnqq)] |
+|  |  |  [[Assignment 1] (Due 11:59PM on Feb 8)] [[Assignment 1 described] (Kiki)] |
+| Unit 2  | **lm**  |  |
+|   |   | Suggested Readings:  <ul><li>[[Chap. 3, N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/3.pdf)], [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)</li></ul>  |
+|  |   | [[Lecture 2 slides](https://www.overleaf.com/read/fwxbpssbqkkm)], [[Lab 2 slides](https://www.overleaf.com/read/zkqkxkvjdrrb)]  |
+
+
 
 
 - [lecture] 9:30-10:45AM on Monday and Wednesday 
