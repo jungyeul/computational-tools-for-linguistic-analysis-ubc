@@ -18,7 +18,7 @@
 |  |  |  [[Assignment 1] (Due 11:59PM on Feb 8)] [[Assignment 1 described] (Kiki)] |
 | Unit 2  | **lm**  |  |
 |   |   | Suggested Readings:  <ul><li>[[Chap. 3, N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/3.pdf)], [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)</li></ul>  |
-|  |   | [[Lecture 2 slides](https://www.overleaf.com/read/fwxbpssbqkkm)], [[Lab 2 slides](https://www.overleaf.com/read/zkqkxkvjdrrb)]  |
+|  |   | [[Unit 2 slides](https://www.overleaf.com/read/fwxbpssbqkkm)], [[Lab 2 slides](https://www.overleaf.com/read/zkqkxkvjdrrb)]  |
 
 
 
