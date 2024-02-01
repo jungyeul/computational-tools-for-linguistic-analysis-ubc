@@ -20,6 +20,7 @@
 | Unit 2  | **lm**  |  |
 |   |   | Suggested Readings:  <ul><li>[[Chap. 3, N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/3.pdf)], [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)</li></ul>  |
 |  |   | [[Unit 2 slides](https://www.overleaf.com/read/fwxbpssbqkkm)], [[Lab 2 slides](https://www.overleaf.com/read/zkqkxkvjdrrb)]  |
+|  |  |  [[Assignment 2](./labs/lab2/lab2.ipynb)] [[Assignment 2 described](./labs/lab2/lab2_description.ipynb) (Marcell)] |
 
 
 
@@ -30,7 +31,7 @@
 
 ## office hours
 * Jungyeul (Instructor): 6-7PM on Thursday (in-person [ORCH 4018], online [[zoom](https://ubc.zoom.us/j/4232149833?pwd=NDRpUFR4VjVWM2Qyd2sweGpNaFBadz09)]), (email: jungyeul _at_ mail.ubc.ca)
-* Anna (TA): 11:30AM-12:30PM on Wednesday (in-person [Buchanan B - B144], online [[zoom](https://ubc.zoom.us/j/69613535166?pwd=ZlRKNVpHbDRSbVZOd1MxbEFzNmdFUT09)]), (email: annajs _at_ student.ubc.ca)
+<!--* Anna (TA): 11:30AM-12:30PM on Wednesday (in-person [Buchanan B - B144], online [[zoom](https://ubc.zoom.us/j/69613535166?pwd=ZlRKNVpHbDRSbVZOd1MxbEFzNmdFUT09)]), (email: annajs _at_ student.ubc.ca)-->
 
 ## reference materials
 * _Speech and Language Processing_ (3rd ed. draft) [[link](https://web.stanford.edu/~jurafsky/slp3/)]
