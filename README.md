@@ -8,22 +8,22 @@
 | date |	description	 |course materials |
 | ------------ | ------------ | ------------  |
 | 2024 |  | [[syllabus](https://www.overleaf.com/read/twjqrgnvwzdq)] |
-| Unit 0 | *shell commands*  |  |
-|  |   | [[Unit 0 slides](https://www.overleaf.com/read/fqqrwxqkjmtb)], [[Lab 0 slides](https://www.overleaf.com/read/djddcbxmfqhj)], [[lab suppl - command lines in PC](https://docs.google.com/presentation/d/1KZxnS9p1-nAVYxKCkWT7EsyqbdiLRWvfjATUBZaAPcg/edit?usp=sharing) (Yadong)] |
+| Lecture 0 | *shell commands*  |  |
+|  |   | [[Lecture 0 slides](https://www.overleaf.com/read/fqqrwxqkjmtb)], [[Lab 0 slides](https://www.overleaf.com/read/djddcbxmfqhj)], [[lab suppl - command lines in PC](https://docs.google.com/presentation/d/1KZxnS9p1-nAVYxKCkWT7EsyqbdiLRWvfjATUBZaAPcg/edit?usp=sharing) (Yadong)] |
 |  |  |  [[Assignment 0](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/lab0/lab0.ipynb) (Due 11:59PM on Jan 25)] [[Assignment 0 described](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/lab0/lab0_description.ipynb) (Jasbrina)] |
-| Unit 1 | **preprocessing**  |  |
+| Lecture 1 | **preprocessing**  |  |
 |   | *sentence boundary detection*   |   Suggested Readings:  <ul><li>[[Sentence Boundary Detection and the Problem with the U.S.](http://aclweb.org/anthology/N/N09/N09-2061.pdf)]</li><li>[[Sentence Boundary Detection: A Long Solved Problem?](http://aclweb.org/anthology/C/C12/C12-2096.pdf)]</li></ul> |
 |  |  *tokenization*  |  Suggested Readings:  <ul><li>[[Tokenization: Returning to a Long Solved Problem](http://aclweb.org/anthology/P/P12/P12-2074.pdf)]</li></ul>  |
-|  |   | [[Unit 1 slides](https://www.overleaf.com/read/scpjfcgjvqyt)], [[Lab 1 slides](https://www.overleaf.com/read/nfnzdfpcvnqq)] [[JP-algorithm](./labs/lab1/jp/jp-algorithm-ling242.ipynb) (Junrui)]  |
+|  |   | [[Lecture 1 slides](https://www.overleaf.com/read/scpjfcgjvqyt)], [[Lab 1 slides](https://www.overleaf.com/read/nfnzdfpcvnqq)] [[JP-algorithm](./labs/lab1/jp/jp-algorithm-ling242.ipynb) (Junrui)]  |
 |  |  |  [[Assignment 1](./labs/lab1/lab1.ipynb) (Due 11:59PM on Feb 8)] [[Assignment 1 described](./labs/lab1/lab1_description.ipynb) (Kiki)] |
 |  |  |  [[Assignment 1 in the class](https://colab.research.google.com/drive/19gdnQ1K6O2aVYX3adWLfXZJ5_AO5jrPH?usp=sharing)] |
-| Unit 2  | **lm**  |  |
+| Lecture 2  | **lm**  |  |
 |   |   | Suggested Readings:  <ul><li>[[Chap. 3, N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/3.pdf)], [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)</li></ul>  |
-|  |   | [[Unit 2 slides](https://www.overleaf.com/read/fwxbpssbqkkm)], [[Lab 2 slides](https://www.overleaf.com/read/zkqkxkvjdrrb)]  |
+|  |   | [[Lecture 2 slides](https://www.overleaf.com/read/fwxbpssbqkkm)], [[Lab 2 slides](https://www.overleaf.com/read/zkqkxkvjdrrb)]  |
 |  |  |  [[Assignment 2](./labs/lab2/lab2.ipynb)] [[Assignment 2 described](./labs/lab2/lab2_description.ipynb) (Marcell)] |
-| Unit 3 | **pos tagging & sequence labeling algorithms**  | |
+| Lecture 3 | **pos tagging & sequence labeling algorithms**  | |
 |  | *morphosyntax tasks in nlp & hmm* |  Suggested Readings:  <ul><li>[[Chap. 8, Sequence Labeling for Parts of Speech and Named Entities](https://web.stanford.edu/~jurafsky/slp3/8.pdf)], Speech and Language Processing (3rd ed. draft)</li>  <li>[[Chunking](https://www.clips.uantwerpen.be/conll2000/chunking/)], CoNLL-2000 Shared Task</li> <li>[[Language-Independent Named Entity Recognition](https://www.clips.uantwerpen.be/conll2003/ner/)], CoNLL-2003 Shared Task</li><li>[[Semantic Role Labeling](http://www.lsi.upc.edu/~srlconll/)], CoNLL-2004 and CoNLL-2005 Shared Tasks</li> </ul>  |
-|  |   | [[Unit 3 slides](https://www.overleaf.com/read/hxwyvymgyxsy)], [[Lab 3 slides](https://www.overleaf.com/read/drrppbcnfdhy)] |
+|  |   | [[Lecture 3 slides](https://www.overleaf.com/read/hxwyvymgyxsy)], [[Lab 3 slides](https://www.overleaf.com/read/drrppbcnfdhy)] |
 
 
 
