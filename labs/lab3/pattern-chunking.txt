@@ -1,0 +1,7 @@
+u: 0=%x[ 0,0] # current token itself
+
+# PoS: use PoS to predict chunking label
+u:PoS L=%x[-1,1] # PoS of previous token
+u:PoS X=%x[ 0,1] # PoS of current token
+u:PoS R=%x[ 1,1] # PoS of next token
+

@@ -1,0 +1,8 @@
+u:X=%x[0,0]       # recognize named entity from token itself
+u:PoS X=%x[0,1]   # named entities probably never have PoS like TO or VBZ
+u:Chunk X=%x[0,2] # named entities probably have chunk label I-NP
+
+u:foo=%x[0,0]/%x[0,1] # maybe a word, depending on its PoS, can sometimes be a named entity and at other times not
+
+u:AllC? X=%t[0,0,"^\u*$"] # if it is in all caps then I would assume it is almost certainly a named entity
+u:BegC? X=%t[0,0,"^\u"] # if it begins with a capital letter then likely some named entity

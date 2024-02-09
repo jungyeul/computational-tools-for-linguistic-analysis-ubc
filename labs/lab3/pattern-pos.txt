@@ -1,0 +1,30 @@
+u:-2=%x[-2,0] # 2 tokens prior
+u:-1=%x[-1,0] # 1 tokens prior
+u: 0=%x[ 0,0] # current token itself
+u: 1=%x[ 1,0] # 1 tokens after
+u: 2=%x[ 2,0] # 2 tokens after
+
+u:-1c=%x[-1,0]/%x[0,0] # previous token given current token
+u: 1c=%x[ 1,0]/%x[0,0] # next token given current token
+
+# Prefixes: use first n characters of token to determine its PoS
+# e.g. the prefix 'de-' more likely appears in a verb than a preposition
+u:Pre-1 X=%m[ 0,0,"^.?"]
+u:Pre-2 X=%m[ 0,0,"^.?.?"]
+u:Pre-3 X=%m[ 0,0,"^.?.?.?"]
+u:Pre-4 X=%m[ 0,0,"^.?.?.?.?"]
+
+# Suffixes: use last n characters of token to determine its PoS
+# e.g. the suffix '-tion' more likely appears in a noun than a verb
+u:Suf-1 X=%m[ 0,0,".?$"]
+u:Suf-2 X=%m[ 0,0,".?.?$"]
+u:Suf-3 X=%m[ 0,0,".?.?.?$"]
+u:Suf-4 X=%m[ 0,0,".?.?.?.?$"]
+
+# Capitalization
+u:BegC? X=%t[ 0,0,"^\u"]   # whether current token begins with capital letter (e.g. likely for proper nouns)
+
+u:Punc? X=%t[ 0,0,"\p"] # whether current token contains a punctuation
+
+u:Num? X=%t[0,0,"\d"] # whether current token contains a number
+
