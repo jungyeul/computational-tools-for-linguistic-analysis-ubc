@@ -27,6 +27,11 @@ NEWS: March 1st, LinguisticsNEW Abstract deadline: https://blogs.ubc.ca/linguist
 |  | *morphosyntax tasks in nlp & hmm* |  Suggested Readings:  <ul><li>[[Chap. 8, Sequence Labeling for Parts of Speech and Named Entities](https://web.stanford.edu/~jurafsky/slp3/8.pdf)], Speech and Language Processing (3rd ed. draft)</li>  <li>[[Chunking](https://www.clips.uantwerpen.be/conll2000/chunking/)], CoNLL-2000 Shared Task</li> <li>[[Language-Independent Named Entity Recognition](https://www.clips.uantwerpen.be/conll2003/ner/)], CoNLL-2003 Shared Task</li><li>[[Semantic Role Labeling](http://www.lsi.upc.edu/~srlconll/)], CoNLL-2004 and CoNLL-2005 Shared Tasks</li> </ul>  |
 |  |   | [[Lecture 3 slides](https://www.overleaf.com/read/hxwyvymgyxsy)], [[Lab 3 slides](https://www.overleaf.com/read/drrppbcnfdhy)] |
 |  |   | [[Assignment 3](./labs/lab3/lab3.ipynb) (Due 11:59PM on March 7)] [[Assignment 3 described](./labs/lab3/lab3_description.ipynb) (Andrew)] |
+| Week 8-10 | **syntax**  | |
+|  | *parsing* |  Suggested Readings:  <ul><li>[Chap. 12, [Constituency Grammars](https://web.stanford.edu/~jurafsky/slp3/12.pdf)], Speech and Language Processing (3rd ed. draft)</li>   <li>[Chap. 13, [Constituency Parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf)]</li>   <li>[Chap. 14, [Dependency Parsing](https://web.stanford.edu/~jurafsky/slp3/14.pdf)]</li> </ul>  |
+|  |   | [[Lecture 4 slides](https://www.overleaf.com/read/qbymzwsmjrxf)], [[Lab 4 slides](https://www.overleaf.com/read/vcxhmpjgnwzf)] |
+|  |   | [[Assignment 4](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/lab4/lab4.ipynb) (Due 11:59PM on March 21)] [[Assignment 4 described](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/lab4/lab4_description.ipynb) (Annabelle)] [[CNF conversion](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/lab4/ling242_syntax.ipynb)] |
+
 
 
 
