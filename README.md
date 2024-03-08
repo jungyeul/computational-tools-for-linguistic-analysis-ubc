@@ -1,8 +1,6 @@
 # LING 242 Computational Tools for Linguistic Analysis 
 ### @UBC (Winter Term 2 2023/24)
 
-NEWS: March 1st, LinguisticsNEW Abstract deadline: https://blogs.ubc.ca/linguisticsnew24/
-
 ![](https://raw.githubusercontent.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/main/labs/LING242.png)
 
 
