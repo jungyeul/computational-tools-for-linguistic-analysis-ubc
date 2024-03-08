@@ -28,8 +28,8 @@
 | Week 8-10 | **syntax**  | |
 |  | *parsing* |  Suggested Readings:  <ul><li>[Chap. 12, [Constituency Grammars](https://web.stanford.edu/~jurafsky/slp3/12.pdf)], Speech and Language Processing (3rd ed. draft)</li>   <li>[Chap. 13, [Constituency Parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf)]</li>   <li>[Chap. 14, [Dependency Parsing](https://web.stanford.edu/~jurafsky/slp3/14.pdf)]</li> </ul>  |
 |  |   | [[Lecture 4 slides](https://www.overleaf.com/read/qbymzwsmjrxf)], [[Lab 4 slides](https://www.overleaf.com/read/vcxhmpjgnwzf)] |
-||| [[ptb examples](./labs/lab4/ptb-examples.ipynb) [[ptb ud examples](./labs/UD.pdf) [[CNF conversion](./labs/lab4/ling242_syntax.ipynb)] ]
-|  |   | [[Assignment 4](./labs/lab4/lab4.ipynb) (Due 11:59PM on March 21)] [[Assignment 4 described](./labs/lab4/lab4_description.ipynb) (Annabelle)]  |
+||| [[ptb examples](./labs/lab4/ptb-examples.ipynb)] [[ptb ud examples](./labs/UD.pdf) [[CNF conversion](./labs/lab4/ling242_syntax.ipynb)] |
+||| [[Assignment 4](./labs/lab4/lab4.ipynb) (Due 11:59PM on March 21)] [[Assignment 4 described](./labs/lab4/lab4_description.ipynb) (Annabelle)]  |
 
 
 
