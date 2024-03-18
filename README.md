@@ -30,6 +30,8 @@
 |  |   | [[Lecture 4 slides](https://www.overleaf.com/read/qbymzwsmjrxf)], [[Lab 4 slides](https://www.overleaf.com/read/vcxhmpjgnwzf)] |
 ||| [[ptb examples](./labs/lab4/ptb-examples.ipynb)] [[ptb ud examples](./labs/UD.pdf)] [[CNF conversion](./labs/lab4/ling242_syntax.ipynb)] |
 ||| [[Assignment 4](./labs/lab4/lab4.ipynb) (Due 11:59PM on March 21)] [[Assignment 4 described](./labs/lab4/lab4_description.ipynb) (Annabelle)]  |
+| Week 11 | **classification**  | |
+|  |  | [[Lecture 5 slides](https://www.overleaf.com/read/mmxnxpbkrgmh)], [[Lab 5 slides](https://www.overleaf.com/read/qtfbvxhdqvnv)] |
 
 
 
