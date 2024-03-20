@@ -42,7 +42,7 @@
 |  | *document & word alignment*  |  |
 |  | *smt & nmt* |  |
 |   |   | [Lecture 7 slides] |
-| Lecture 8 | **beyond LING242**  | |
+| Lecture 8 | **semantics**  | |
 |   |   | [Lecture 8 slides] |
 
 
