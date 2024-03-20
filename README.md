@@ -38,6 +38,10 @@
 |  | *morphological paradigm* | Suggested Readings:  <ul><li>[[Supervised Learning of Complete Morphological Paradigms](https://www.aclweb.org/anthology/N13-1138)]</li></ul>  |
 | |   | [[Lecture 6 slides](https://www.overleaf.com/read/dddsbnghbhwd)], [Lab 6 slides] |
 ||| [Assignment 6]  |
+| Lecture 6 | **machine translation**  | |
+|  | *document & word alignment*  |  |
+|  | *smt & nmt* |  |
+|   |   | [Lecture 7 slides] |
 
 
 
