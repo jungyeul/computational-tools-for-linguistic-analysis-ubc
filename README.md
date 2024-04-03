@@ -41,7 +41,7 @@
 | Lecture 7 | **machine translation**  | |
 |  | *document & word alignment*  |  |
 |  | *smt & nmt* |  |
-|   |   | [Lecture 7 slides] |
+|   |   | [[Lecture 7 slides](https://www.overleaf.com/read/pkcygpwhfmcy)] |
 | Lecture 8 | **semantics**  | |
 |   |   | [Lecture 8 slides] |
 
