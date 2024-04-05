@@ -42,6 +42,7 @@
 |  | *document & word alignment*  |  |
 |  | *smt & nmt* |  |
 |   |   | [[Lecture 7 slides](https://www.overleaf.com/read/pkcygpwhfmcy)] |
+|  |   | [[Assignment 7 described](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/lab7/lab7_description.ipynb)]  |
 | Lecture 8 | **semantics**  | |
 |   |   | [Lecture 8 slides] |
 
