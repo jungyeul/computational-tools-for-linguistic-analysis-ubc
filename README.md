@@ -45,6 +45,8 @@
 |  |   | [[Assignment 7 described](https://github.com/jungyeul/computational-tools-for-linguistic-analysis-ubc/blob/main/labs/lab7/lab7_description.ipynb) (no submission)]  |
 | Lecture 8 | **semantics**  | |
 |   |   | [[Lecture 8 slides](https://www.overleaf.com/read/fvkxznrnrnhw#e6e075)] |
+| *** | ***  | |
+|   |   | [[REcitation](https://www.overleaf.com/read/ppqbsqxjnjmj#2fa580)] |
 
 
 
