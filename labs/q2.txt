@@ -1,0 +1,10 @@
+1 Výroční Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos
+2 zpráva Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos
+3 se Case=Acc|PronType=Prs|Reflex=Yes|Variant=ShortMood=Ind|Number=Sing|Person=3|Polarity=Neg
+5 v AdpType=Prep|Case=Loc
+6 případech Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos
+7 uvedených Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos
+8 v AdpType=Prep|Case=Loc
+9 §_20_odst._2 _
+10 . _
+
