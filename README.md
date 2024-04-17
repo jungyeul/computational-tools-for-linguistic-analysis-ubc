@@ -47,7 +47,7 @@
 |   |   | [[Lecture 8 slides](https://www.overleaf.com/read/fvkxznrnrnhw#e6e075)] |
 | *** | ***  | |
 |   |   | [[Recitation](https://www.overleaf.com/read/ppqbsqxjnjmj#2fa580)] |
-|   |   | [[Final Exam]()] |
+|   |   | [[Final Exam]()] will be released at 9AM on April 17. |
 
 
 
