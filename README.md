@@ -47,7 +47,7 @@
 |   |   | [[Lecture 8 slides](https://www.overleaf.com/read/fvkxznrnrnhw#e6e075)] |
 | *** | ***  | |
 |   |   | [[Recitation](https://www.overleaf.com/read/ppqbsqxjnjmj#2fa580)] |
-|   |   | [[Final Exam](https://www.overleaf.com/read/hzjfcvhpmcjd#6cd2e5)] Closed at 6PM. [q1.txt](./labs/q1.txt) [q2.txt](./labs/q2.txt)|
+
 
 
 
