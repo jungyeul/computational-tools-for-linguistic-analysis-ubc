@@ -1,0 +1,12 @@
+# sent_id = deped-lrmds_11820_0006
+# text = Drayber kasi ng jeepney ang tatay ko.
+# text_en = You see, my dad is a jeepney driver.
+1	Drayber	drayber	NOUN	_	_	0	root	_	_
+2	kasi	kasi	SCONJ	_	_	1	mark	_	_
+3	ng	ng	ADP	_	_	4	case	_	_
+4	jeepney	jeepney	NOUN	_	_	1	nmod	_	_
+5	ang	ang	ADP	_	_	6	case	_	_
+6	tatay	tatay	NOUN	_	_	1	nsubj	_	_
+7	ko	ko	PRON	_	_	6	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
+
